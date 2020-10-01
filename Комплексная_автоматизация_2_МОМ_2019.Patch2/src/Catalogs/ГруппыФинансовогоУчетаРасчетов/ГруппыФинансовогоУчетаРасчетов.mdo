@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="c8248780-832d-4a91-a459-124ea4200e93">
+  <producedTypes>
+    <objectType typeId="d9107684-da8b-428a-be83-e5990520b78a" valueTypeId="03ba6526-72c5-495b-ac15-4e8e35b227f2"/>
+    <refType typeId="cb5a6db4-2323-4fde-bf2d-15540838c61d" valueTypeId="19d32e66-db26-46ea-9a7c-08f4ddb86c36"/>
+    <selectionType typeId="9afe2ea8-d12d-46b1-ad36-c9c88144c716" valueTypeId="7279bbef-f603-4642-84dd-2f7c0540070a"/>
+    <listType typeId="3b84fd46-8823-4a12-845e-214d14380ce0" valueTypeId="d8088470-8ff3-4d27-b32b-06dfebcdb45b"/>
+    <managerType typeId="7d051865-3578-4637-aeeb-dad3663185ee" valueTypeId="19f053f9-291b-4a22-a8cf-150701d45284"/>
+  </producedTypes>
+  <name>ГруппыФинансовогоУчетаРасчетов</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

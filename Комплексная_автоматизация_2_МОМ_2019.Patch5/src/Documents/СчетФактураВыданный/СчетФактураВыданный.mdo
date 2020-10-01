@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="4eea55ff-df05-4cb6-9a6a-920d5fd114a3">
+  <producedTypes>
+    <objectType typeId="30ec54ea-c3de-4b0f-bf4f-7390ee53819f" valueTypeId="7131726c-080a-43ec-a15e-aaa95b75577b"/>
+    <refType typeId="bb25cf69-02d2-4b4b-9f2d-2f8ce16f4393" valueTypeId="d2aa944a-0c8f-4858-8244-82af8405494b"/>
+    <selectionType typeId="844880be-baa4-443b-af0f-c2fbe5b20576" valueTypeId="36dfb799-b4e5-4eb0-8a9b-2ca790d3d076"/>
+    <listType typeId="2a5570b1-96b4-4103-8628-c4e6fb24b04c" valueTypeId="574d5076-ee73-4478-b207-9df274901d3e"/>
+    <managerType typeId="c2ff5560-48a3-4f27-859b-b03b29a99f32" valueTypeId="85376599-00ca-4673-a3d0-7219c6b60b68"/>
+  </producedTypes>
+  <name>СчетФактураВыданный</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <objectModule>Extended</objectModule>
+  </extension>
+</mdclass:Document>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="b5e7bd5a-a1a2-44d2-994f-ad9329e81f81">
+  <producedTypes>
+    <refType typeId="495e3862-5ed4-4d54-a157-fc7cfa0fdcdb" valueTypeId="d551f991-dc1c-4d97-9f12-6f7ed9e94e98"/>
+    <listType typeId="cf785cf2-413d-4da0-a6b7-4e71328811b7" valueTypeId="0e3f31b8-dd76-4471-87ee-4e3c22b70e6b"/>
+    <managerType typeId="5fdcecc0-cb27-4ab4-896b-45b968f8c513" valueTypeId="c7d5f9c3-7d53-4ec1-ad7e-ffa76067b28b"/>
+  </producedTypes>
+  <name>ТипыНоменклатуры</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+</mdclass:Enum>

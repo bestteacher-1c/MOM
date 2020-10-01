@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="64f0200c-6026-42d7-a65c-231158a91b76">
+  <producedTypes>
+    <objectType typeId="76da3ce3-c523-41a2-b0ca-3fb3807cc593" valueTypeId="0be6807b-9e39-4d49-96fd-53fdcd22980c"/>
+    <managerType typeId="225cee0b-0a5d-404b-ad64-0bac9d18ce32" valueTypeId="aaf842b1-3046-4695-a88d-17d8f514cdb9"/>
+  </producedTypes>
+  <name>РегламентированныйОтчетСтатистикаФорма1ПР</name>
+  <synonym>
+    <key>ru</key>
+    <value>Форма 1-ПР &quot;Сведения о приостановке (забастовке) и возобновлении работы трудовых коллективов&quot;</value>
+  </synonym>
+  <defaultForm>Report.РегламентированныйОтчетСтатистикаФорма1ПР.Form.ОсновнаяФорма</defaultForm>
+  <includeHelpInContents>true</includeHelpInContents>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
+  <forms uuid="f874dc87-38a3-4998-95f3-52be8e3fb2ee">
+    <name>ОсновнаяФорма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Статистика: Форма 1-ПР</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="693ca97d-1f8f-482a-99a8-593c1cb9eb93">
+    <name>ФормаОтчета2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма 1-ПР</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="c0c884b6-bff1-4702-aa3d-e84d81bf512c">
+    <name>ФормаОтчета2020Кв1_ФормаОтчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета2020 кв1 форма отчета</value>
+    </synonym>
+  </templates>
+  <templates uuid="fa750573-69c7-4b44-95dd-a8ce260641a5">
+    <name>АтрибВыгрузкиXML2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Атрибуты выгрузки XML 2020 кв1</value>
+    </synonym>
+    <comment>Дополнительные атрибуты для выгрузки в XML</comment>
+  </templates>
+  <templates uuid="3fd2c777-6e51-45ec-8999-ec8210640494">
+    <name>СхемаВыгрузкиXML2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки XML2020 кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="3350d753-a884-482b-a6fb-ed6a22911d80">
+    <name>ШаблонРосстата2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Шаблон росстата2020 кв1</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="507c4b4c-05af-48c3-8004-7b73a9f90b0d">
+    <name>Списки2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки2020 кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="4b4907f4-a3bc-43be-b856-32ba469c604c">
+    <name>НастройкиЗагрузкиXML2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки загрузки из файла XML 2020 кв1</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="5095d724-5c9d-41b4-a3b3-ea1b11b0444e">
+    <name>НастройкиСравнения2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки сравнения отчетов 2020 кв1</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:Report>

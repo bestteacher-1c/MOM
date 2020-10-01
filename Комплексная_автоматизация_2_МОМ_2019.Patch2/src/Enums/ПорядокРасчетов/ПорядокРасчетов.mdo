@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="83ec1cc2-0cd5-46f5-b88c-79fa660b0364">
+  <producedTypes>
+    <refType typeId="6f078ba6-4f2a-4d09-b47c-6cb67f3a5866" valueTypeId="b2ba31f4-1758-4b10-9494-134d0bce9a29"/>
+    <listType typeId="23956fb8-d43e-4c65-9963-e7b9fda063bf" valueTypeId="36517fa0-b21b-4a32-b812-054303057fc4"/>
+    <managerType typeId="b96f2a9f-1ede-4f6d-b495-ac24dc141646" valueTypeId="c7e98638-df67-44ac-bfe9-53afb6c0fc60"/>
+  </producedTypes>
+  <name>ПорядокРасчетов</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+</mdclass:Enum>

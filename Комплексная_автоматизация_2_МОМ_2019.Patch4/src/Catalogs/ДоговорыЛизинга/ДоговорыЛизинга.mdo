@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="bc60eaf2-4455-40d3-8602-0e4eccc2027e">
+  <producedTypes>
+    <objectType typeId="297ebede-d34f-4207-a9f8-16da81766232" valueTypeId="1134d76e-9609-4492-8e2d-d28ada700f7c"/>
+    <refType typeId="e43d6f27-43dd-4ffb-bb58-5853af7c2690" valueTypeId="8bc6c2ea-862a-4abd-a26f-55dfc3ebe117"/>
+    <selectionType typeId="e3d7a169-8d96-475e-bf01-d00045ff316b" valueTypeId="b2fb4215-b7f7-46c3-a932-a7cb8bd19d50"/>
+    <listType typeId="27be152b-5429-467c-abf5-d1ba1c2c64fa" valueTypeId="b79f227b-ee49-4169-be30-d586dbe095d7"/>
+    <managerType typeId="8aa7c898-631e-42db-b894-6bca5bfd59c4" valueTypeId="04c20c3d-bcb8-44f8-ab2e-35235b17c878"/>
+  </producedTypes>
+  <name>ДоговорыЛизинга</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

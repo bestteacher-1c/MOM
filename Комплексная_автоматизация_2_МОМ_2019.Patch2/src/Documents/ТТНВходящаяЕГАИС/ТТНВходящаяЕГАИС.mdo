@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="7cc79223-c26a-432b-ab36-ada003f5ba92" extendedConfigurationObject="f533706f-45b2-4584-b97f-e6d2e7175c2e">
+  <producedTypes>
+    <objectType typeId="8bb904de-0fe9-40fc-a8aa-6392526f6f23" valueTypeId="b55f8efb-7892-44e4-9f2e-e2ea556320e4"/>
+    <refType typeId="3769fb59-54fb-467d-85c0-0a31a4eb6841" valueTypeId="c0af7ab9-1c4a-4291-8ce5-2942c73f20a5"/>
+    <selectionType typeId="9949fe77-9696-4585-abc6-59ce1cc0be74" valueTypeId="fbdf30dc-6aae-4d9b-a8ee-2584eb0d017f"/>
+    <listType typeId="f8444dbe-c95e-482c-be60-e39489c9db06" valueTypeId="cd52f754-4f86-47e0-b0c0-219d1b750cd7"/>
+    <managerType typeId="646b31da-cf87-4886-98eb-6a4ad0e81900" valueTypeId="dd49fb0e-1c39-4bae-96dc-d864e56defde"/>
+  </producedTypes>
+  <name>ТТНВходящаяЕГАИС</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+</mdclass:Document>

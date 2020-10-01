@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="febd9440-3e64-4bc8-922f-503a4f31b2c9">
+  <producedTypes>
+    <objectType typeId="5e0d2cf0-c37a-4ef5-ae91-934bc0cbaa2c" valueTypeId="bbaf6677-7a28-4d87-9cb3-50b2e8e8d816"/>
+    <managerType typeId="f464ac9f-b0b2-4dee-9dbb-5c9c683ba88c" valueTypeId="52a36579-4c43-40cf-80ac-05edd0177f59"/>
+  </producedTypes>
+  <name>РегламентированныйОтчетСтатистикаФорма1Конъюнктура</name>
+  <synonym>
+    <key>ru</key>
+    <value>Форма 1-Конъюнктура &quot;Обследование конъюнктуры и деловой активности в розничной торговле&quot;</value>
+  </synonym>
+  <defaultForm>Report.РегламентированныйОтчетСтатистикаФорма1Конъюнктура.Form.ОсновнаяФорма</defaultForm>
+  <includeHelpInContents>true</includeHelpInContents>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
+  <forms uuid="11237004-d671-4e61-bd63-8491f4410930">
+    <name>ОсновнаяФорма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Статистика: Форма 1-Конъюнктура</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="8cad70a7-91c0-4281-bf04-e35d3a8d6631">
+    <name>ФормаОтчета2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма 1-Конъюнктура</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="4509a267-ccf2-4485-a161-f4c4bd27b1e5">
+    <name>АтрибВыгрузкиXML2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Атрибуты выгрузки XML 2020 кв1</value>
+    </synonym>
+    <comment>Дополнительные атрибуты для выгрузки в XML</comment>
+  </templates>
+  <templates uuid="c0fd83ff-80d1-436a-bec7-05acd2348f13">
+    <name>СхемаВыгрузкиXML2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки XML2020 кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="a4aba5f2-6f19-425c-9345-cb8180f9d3f5">
+    <name>ФормаОтчета2020Кв1_ФормаОтчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета2020 кв1 форма отчета</value>
+    </synonym>
+  </templates>
+  <templates uuid="0b669476-1131-4207-9901-e57c64554a79">
+    <name>ШаблонРосстата2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Шаблон росстата2020 кв1</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="fe056a3a-d9e3-4766-9517-5f587c1b2bc8">
+    <name>НастройкиЗагрузкиXML2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки загрузки из файла XML 2020 (кв.1)</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="d3940126-8b47-4ee2-8904-c70f8f424d6e">
+    <name>НастройкиСравнения2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки сравнения отчетов 2020 (кв.1)</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:Report>

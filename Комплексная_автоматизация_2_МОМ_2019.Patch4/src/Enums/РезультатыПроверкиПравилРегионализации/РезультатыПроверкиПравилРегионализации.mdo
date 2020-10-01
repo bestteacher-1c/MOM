@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="d099f5c2-fc32-4004-8c90-c69b056719fa">
+  <producedTypes>
+    <refType typeId="26ad3bff-b301-4204-a197-f1744663bb97" valueTypeId="287e5ee2-a004-4c7e-9552-9eaf0a25a27d"/>
+    <listType typeId="95ba4bd1-3117-494f-b0f3-38349baea921" valueTypeId="02017dfe-b50f-4714-905b-761abf8bd896"/>
+    <managerType typeId="5d1b7088-d1d8-4df6-bdf8-27169b604646" valueTypeId="79d99db2-818b-4c7d-a46d-18597db6304e"/>
+  </producedTypes>
+  <name>РезультатыПроверкиПравилРегионализации</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <enumValues uuid="0137e4fa-dd79-4193-8a9c-eee650c8b0f2">
+    <name>ПеремещениеРазрешено</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="a35dcf84-7b16-442b-b73f-e10d7c8487f2">
+    <name>ПеремещениеЗапрещено</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="d51f75ec-f518-4bf3-b195-6f894037281b">
+    <name>ПеремещениеРазрешеноПриВыполненииУсловий</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+</mdclass:Enum>

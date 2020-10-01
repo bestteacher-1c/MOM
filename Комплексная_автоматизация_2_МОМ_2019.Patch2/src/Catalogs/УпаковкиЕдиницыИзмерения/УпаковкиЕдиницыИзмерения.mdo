@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="2c99d733-97f2-4be5-b9d6-58ece9d4f828">
+  <producedTypes>
+    <objectType typeId="b0b6eee0-3ba7-401f-b20f-6437366706f6" valueTypeId="02821796-7c50-4965-838d-abcc2f1884ad"/>
+    <refType typeId="14c898fd-1d1c-4a26-9d6f-1dc70bc2d165" valueTypeId="8f26a875-7ceb-4bd2-810a-cb0d75ea0ec7"/>
+    <selectionType typeId="2bcfeeb5-7064-474a-9479-01747af6ac4a" valueTypeId="b89924de-a8df-47da-b755-a222ecf847f5"/>
+    <listType typeId="62dd6d57-c2e6-4ebd-b32e-85df3c709563" valueTypeId="f83a072a-ebfc-4942-ac6d-ba147a5a2467"/>
+    <managerType typeId="4a1b53dc-adc0-4eba-92db-9de7e7de1360" valueTypeId="b16c8ecd-255f-49c8-9f67-d288c8a7e835"/>
+  </producedTypes>
+  <name>УпаковкиЕдиницыИзмерения</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <hierarchical>Checked</hierarchical>
+    <owners>Checked</owners>
+    <descriptionLength>Checked</descriptionLength>
+  </extension>
+  <hierarchical>true</hierarchical>
+  <owners>Catalog.Номенклатура</owners>
+  <owners>Catalog.НаборыУпаковок</owners>
+  <descriptionLength>50</descriptionLength>
+  <attributes uuid="5c2a4999-3950-4bd9-ab73-4ab40d78dbf4">
+    <name>МинимальноеКоличествоУпаковокМногооборотнойТары</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+  </attributes>
+  <attributes uuid="06f18284-9d2a-4747-8192-8ad9574410cf">
+    <name>Объем</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>18</precision>
+        <scale>6</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+  </attributes>
+  <attributes uuid="2eb6ec99-96db-49bc-a76b-1033341be52a">
+    <name>Безразмерная</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>Boolean</types>
+    </type>
+  </attributes>
+  <attributes uuid="9a3adb56-579b-41e5-9e11-0a7fdecac882">
+    <name>ЕдиницаИзмерения</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>CatalogRef.УпаковкиЕдиницыИзмерения</types>
+    </type>
+  </attributes>
+  <attributes uuid="8d1f65be-3449-45d4-bf04-f5a5abf411e4">
+    <name>ТипУпаковки</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>EnumRef.ТипыУпаковокНоменклатуры</types>
+    </type>
+  </attributes>
+  <attributes uuid="c43d74fb-ac9d-4929-ab92-ee9f1f17a0ed">
+    <name>Числитель</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <scale>3</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+  </attributes>
+  <attributes uuid="ed9f0e96-70bd-4b5a-8efb-08fb47639674">
+    <name>ОбъемЕдиницаИзмерения</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>CatalogRef.УпаковкиЕдиницыИзмерения</types>
+    </type>
+  </attributes>
+  <attributes uuid="3ffb71c9-79ce-4ad5-88d0-b5422e8fa400">
+    <name>КоличествоУпаковок</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+  </attributes>
+  <attributes uuid="da5a07f3-255f-47ee-b90a-b29a0f2f6aa1">
+    <name>Знаменатель</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <scale>3</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+  </attributes>
+  <attributes uuid="c9b4223c-b66a-4e97-80ae-4ec3c0a545ae">
+    <name>СкладскаяГруппа</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>CatalogRef.СкладскиеГруппыУпаковок</types>
+    </type>
+  </attributes>
+  <attributes uuid="be5232fa-9021-4800-8a95-ea8e427bf9f8">
+    <name>Вес</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <scale>3</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+  </attributes>
+  <attributes uuid="dec09cb3-dffd-40e6-b997-59dd8790635f">
+    <name>ХарактеристикаМногооборотнаяТара</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>CatalogRef.ХарактеристикиНоменклатуры</types>
+    </type>
+  </attributes>
+  <attributes uuid="76ba5a93-5a21-4da4-b166-9ca3b827bc49">
+    <name>ПоставляетсяВМногооборотнойТаре</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>Boolean</types>
+    </type>
+  </attributes>
+  <attributes uuid="871654a5-d4a7-46a2-ac44-29067714124c">
+    <name>Глубина</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <scale>3</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+  </attributes>
+  <attributes uuid="c1f3506b-0538-4c97-9b9f-bf71f706b3d4">
+    <name>ВесЕдиницаИзмерения</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>CatalogRef.УпаковкиЕдиницыИзмерения</types>
+    </type>
+  </attributes>
+  <attributes uuid="4ca741ca-a911-4152-93c5-80f8b401fac9">
+    <name>Типоразмер</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>CatalogRef.ТипоразмерыУпаковок</types>
+    </type>
+  </attributes>
+  <attributes uuid="8efa7d5f-0206-4a0a-8483-c4089e17d7c4">
+    <name>Высота</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <scale>3</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+  </attributes>
+  <attributes uuid="d929ed0a-60a1-4462-a993-bde334d81bfd">
+    <name>ВысотаЕдиницаИзмерения</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>CatalogRef.УпаковкиЕдиницыИзмерения</types>
+    </type>
+  </attributes>
+  <attributes uuid="3b9e70e2-0973-49f5-b86d-a0dc31460b6f">
+    <name>Ширина</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <scale>3</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+  </attributes>
+  <attributes uuid="76af0e4b-b064-4c27-bade-8bfc96115689">
+    <name>ШиринаЕдиницаИзмерения</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>CatalogRef.УпаковкиЕдиницыИзмерения</types>
+    </type>
+  </attributes>
+  <attributes uuid="b4cf3ad1-b8e1-481b-8c08-899e4b086574">
+    <name>ГлубинаЕдиницаИзмерения</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>CatalogRef.УпаковкиЕдиницыИзмерения</types>
+    </type>
+  </attributes>
+  <attributes uuid="e705e4fc-00bc-410d-83f4-2cbebeefed36">
+    <name>НоменклатураМногооборотнаяТара</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>CatalogRef.Номенклатура</types>
+    </type>
+  </attributes>
+</mdclass:Catalog>

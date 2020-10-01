@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f8314d5f-1eaf-4e5e-8751-1b7cd60a733f">
+  <producedTypes>
+    <objectType typeId="f05aae33-2824-4111-a9a5-936f423ca631" valueTypeId="dd7035c8-663d-4c9c-9786-83890187023c"/>
+    <managerType typeId="9cffde23-c141-4d4a-94c7-1049aa10ab0e" valueTypeId="0d10027a-863b-448a-9071-d1b49262d2ed"/>
+  </producedTypes>
+  <name>РегламентированныйОтчетСтатистикаФорма1КонъюнктураОпт</name>
+  <synonym>
+    <key>ru</key>
+    <value>Форма 1-Конъюнктура (опт) &quot;Обследование конъюнктуры и деловой активности в оптовой торговле&quot;</value>
+  </synonym>
+  <defaultForm>Report.РегламентированныйОтчетСтатистикаФорма1КонъюнктураОпт.Form.ОсновнаяФорма</defaultForm>
+  <includeHelpInContents>true</includeHelpInContents>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
+  <forms uuid="cbb83d22-bc71-472d-ad48-a89fc1a9a5e6">
+    <name>ОсновнаяФорма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Статистика: Форма 1-Конъюнктура (опт)</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="3cba934c-286a-496e-a357-741332f7d0d4">
+    <name>ФормаОтчета2015Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма 1-Конъюнктура (опт)</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="a14e83e7-d96c-4ed8-b2fc-d66f01f332e1">
+    <name>СхемаВыгрузкиXML2015Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки XML2015 кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="83e10a85-9b1d-40ff-b67b-42a52537d3af">
+    <name>АтрибВыгрузкиXML2015Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Атрибуты выгрузки XML 2015 кв1</value>
+    </synonym>
+    <comment>Дополнительные атрибуты для выгрузки в XML</comment>
+  </templates>
+  <templates uuid="eefae260-7da6-4913-8047-5230e5f5a1e6">
+    <name>ФормаОтчета2015Кв1_ФормаОтчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета2015 кв1 форма отчета</value>
+    </synonym>
+  </templates>
+  <templates uuid="019103b9-a199-460c-9ad7-5bb8c73636e2">
+    <name>ШаблонРосстата2015Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Шаблон росстата2015 кв1</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="b1f90fda-c58c-4ec1-8e51-860b2b168f4a">
+    <name>НастройкиЗагрузкиXML2015Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки загрузки из файла XML 2015 (кв.1)</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="b4b5d717-2a7a-4d0e-95a8-3da28ead8d52">
+    <name>Списки2015кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки2015кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="d088b6e0-20ce-4b01-b6b7-1790a17cf94b">
+    <name>НастройкиСравнения2015Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки сравнения отчетов 2015 (кв.1)</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:Report>

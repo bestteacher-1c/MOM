@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="21ef8208-83db-41c8-b071-19b970118834">
+  <producedTypes>
+    <managerType typeId="07d2bc1f-ded0-4ae9-80f8-60a216167f96" valueTypeId="ab0b3323-7d62-4fab-b3f4-9c631a4d6724"/>
+    <valueManagerType typeId="e4422602-d867-4497-9538-7603ec0a3cc9" valueTypeId="d09388ad-dfb1-4c3d-923e-9de990c2f299"/>
+    <valueKeyType typeId="b1d8c8c7-d281-4ceb-933d-10d8d5d7cdac" valueTypeId="2bd8f11f-1b9c-4d5e-b9f0-e2796b0f7405"/>
+  </producedTypes>
+  <name>ИспользоватьЗаявкиНаВозвратТоваровОтКлиентов</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConstantExtension">
+    <type>Checked</type>
+  </extension>
+  <type>
+    <types>Boolean</types>
+  </type>
+</mdclass:Constant>

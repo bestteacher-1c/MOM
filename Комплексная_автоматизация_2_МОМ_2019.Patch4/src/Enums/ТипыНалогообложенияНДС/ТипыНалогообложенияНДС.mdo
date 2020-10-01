@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="bb806be3-d31b-4663-8e06-390eb202065a">
+  <producedTypes>
+    <refType typeId="7695cfdc-28ad-4ab9-8740-927630207730" valueTypeId="cc12476a-7442-4b31-9159-02016a862cd9"/>
+    <listType typeId="cda1b0bc-3b9d-47e1-9a4a-369320d03a72" valueTypeId="81211010-425a-4cf4-a95a-2f4310750c47"/>
+    <managerType typeId="17257365-2cf1-4692-908d-b1832da5ca39" valueTypeId="a46ed571-9aa1-4264-aac9-98588cabf05e"/>
+  </producedTypes>
+  <name>ТипыНалогообложенияНДС</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+</mdclass:Enum>

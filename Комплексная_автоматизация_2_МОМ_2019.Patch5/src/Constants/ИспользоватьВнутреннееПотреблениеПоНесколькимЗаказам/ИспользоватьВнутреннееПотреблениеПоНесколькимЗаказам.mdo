@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="e9e243da-3fbe-40d3-857e-cd4c3d4c54eb">
+  <producedTypes>
+    <managerType typeId="0633177d-e5ee-47e3-a907-7ca1a13f7f10" valueTypeId="2b33d1c5-6933-4a22-8671-ff9e21e6f55f"/>
+    <valueManagerType typeId="59adde41-28cf-4dee-abc9-a9e223c7f3a3" valueTypeId="b54acde3-a366-439a-996e-1f11ac701548"/>
+    <valueKeyType typeId="af4c2df9-7db8-5d90-9b5e-d6cf567c6e7e" valueTypeId="69bdf8c0-f3ed-5c2c-ab76-a6801d17d0f2"/>
+  </producedTypes>
+  <name>ИспользоватьВнутреннееПотреблениеПоНесколькимЗаказам</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConstantExtension">
+    <type>Checked</type>
+  </extension>
+  <type>
+    <types>Boolean</types>
+  </type>
+</mdclass:Constant>

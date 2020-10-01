@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="23542e49-cdcc-4e86-b97b-a8754235e3f1">
+  <producedTypes>
+    <containerType typeId="65c7d561-202c-4766-9db9-47edd5583215" valueTypeId="02bbfef7-cc79-44da-91cc-53355585873e"/>
+  </producedTypes>
+  <name>Упаковка</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DefinedTypeExtension">
+    <type>Checked</type>
+  </extension>
+  <type>
+    <types>CatalogRef.УпаковкиЕдиницыИзмерения</types>
+  </type>
+</mdclass:DefinedType>

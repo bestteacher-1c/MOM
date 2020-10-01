@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="ec45de0b-4ce6-4663-902b-9ee028f4e3f9" extendedConfigurationObject="402a4f63-c632-4b91-9a24-a8b41c330ff0">
+  <producedTypes>
+    <objectType typeId="6c72df16-de6a-4bc8-ad51-646f568eda23" valueTypeId="43ad145a-7892-4aa6-8d01-5c251b4d95b8"/>
+    <refType typeId="2166fecb-5edb-4bc9-9915-88da847d0046" valueTypeId="56f5aa6b-6aca-4b60-956f-140649cf91de"/>
+    <selectionType typeId="75c225c5-f19e-4210-8d88-2e53a3a6e624" valueTypeId="91e292c4-faf0-4034-80d1-b36bda68391f"/>
+    <listType typeId="7d41c6b3-ab1d-4b10-9d01-3e4d8c8dd6f6" valueTypeId="d0227d66-37c6-4f48-ba8e-7596d0a977d7"/>
+    <managerType typeId="95c14624-ce16-46cb-9aec-39a5d06ad492" valueTypeId="ce11ceb1-d0de-4ee5-bdda-525d30459c59"/>
+  </producedTypes>
+  <name>ПроизводствоБезЗаказа</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <commands uuid="5349ed0a-960e-455e-a8f0-db299776c51e">
+    <name>bt_Patch3_ЗаполнитьПоПродажам</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заполнить по продажам</value>
+    </synonym>
+    <extension xsi:type="mdclassExtension:BasicCommandExtension">
+      <group>Checked</group>
+      <commandParameterType>Checked</commandParameterType>
+    </extension>
+    <group>CommandGroup.bt_Patch2МОМ</group>
+    <commandParameterType>
+      <types>DocumentRef.ПроизводствоБезЗаказа</types>
+    </commandParameterType>
+    <representation>Auto</representation>
+    <shortcut></shortcut>
+  </commands>
+  <commands uuid="cf9cb94f-1dc7-4acf-baed-4eb536913ec2">
+    <name>bt_Patch3_СоздатьВнутреннееПотребление</name>
+    <synonym>
+      <key>ru</key>
+      <value>Создать внутреннее потребление</value>
+    </synonym>
+    <extension xsi:type="mdclassExtension:BasicCommandExtension">
+      <group>Checked</group>
+      <commandParameterType>Checked</commandParameterType>
+    </extension>
+    <group>CommandGroup.bt_Patch2МОМ</group>
+    <commandParameterType>
+      <types>DocumentRef.ПроизводствоБезЗаказа</types>
+    </commandParameterType>
+    <representation>Auto</representation>
+    <shortcut></shortcut>
+  </commands>
+  <commands uuid="8fe34875-95e7-4dab-a447-391ca752bb51">
+    <name>bt_Patch3_СоздатьПеремещениеТоваров</name>
+    <synonym>
+      <key>ru</key>
+      <value>Создать перемещение товаров</value>
+    </synonym>
+    <extension xsi:type="mdclassExtension:BasicCommandExtension">
+      <group>Checked</group>
+      <commandParameterType>Checked</commandParameterType>
+    </extension>
+    <group>CommandGroup.bt_Patch2МОМ</group>
+    <commandParameterType>
+      <types>DocumentRef.ПроизводствоБезЗаказа</types>
+    </commandParameterType>
+    <representation>Auto</representation>
+    <shortcut></shortcut>
+  </commands>
+</mdclass:Document>

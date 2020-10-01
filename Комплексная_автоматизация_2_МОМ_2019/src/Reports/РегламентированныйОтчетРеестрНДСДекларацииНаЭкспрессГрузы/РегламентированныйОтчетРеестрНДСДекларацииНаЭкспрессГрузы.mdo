@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="13412ac4-d40b-483b-a727-28745d28d0ee">
+  <producedTypes>
+    <objectType typeId="c8e595be-ecc2-44fb-9181-3f80126014b2" valueTypeId="287b6dca-a4b4-4c88-a167-311dca2282af"/>
+    <managerType typeId="07fc5316-64dd-4b70-a036-e30323bd4ddf" valueTypeId="87ea2ef0-45d3-4926-96cd-bc755952d089"/>
+  </producedTypes>
+  <name>РегламентированныйОтчетРеестрНДСДекларацииНаЭкспрессГрузы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Реестр по НДС: Декларации на товары для экспресс-грузов</value>
+  </synonym>
+  <defaultForm>Report.РегламентированныйОтчетРеестрНДСДекларацииНаЭкспрессГрузы.Form.ОсновнаяФорма</defaultForm>
+  <includeHelpInContents>true</includeHelpInContents>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
+  <forms uuid="69a69028-1d4d-44df-9811-cca2faa3b33b">
+    <name>ОсновнаяФорма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реестр по НДС: Декларации на товары для экспресс-грузов</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="a9c09460-c68d-48ac-9fcd-b69acbbca1c6">
+    <name>ФормаОтчета2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реестр по НДС: Декларации на товары для экспресс-грузов</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="88364bf4-64b0-4bcc-a89b-159be6d4e8f7">
+    <name>НастройкиЗагрузкиXML2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки загрузки из файла XML 2020 (кв.1)</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="f90d7416-4e0a-40b9-8293-d0d8cc8531ab">
+    <name>НастройкиСравнения2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки сравнения отчетов 2020 (кв.1)</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="e32bb055-9ade-4f73-a186-1080210e6c6b">
+    <name>ПечатныйБланк2020Кв1_Реестр</name>
+    <synonym>
+      <key>ru</key>
+      <value>Печатный бланк</value>
+    </synonym>
+  </templates>
+  <templates uuid="c5cda2e6-07e4-4884-82fb-6214860e65ce">
+    <name>ПечатныйБланк2020Кв1_Титульный</name>
+    <synonym>
+      <key>ru</key>
+      <value>Печатный бланк</value>
+    </synonym>
+  </templates>
+  <templates uuid="6a484e2a-be9f-47ba-8c69-a0b4f59d4f7d">
+    <name>СпискиВыбора2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки выбора значений</value>
+    </synonym>
+  </templates>
+  <templates uuid="f44f58c7-477a-44cb-b2bc-5dc0648e3f7b">
+    <name>СхемаВыгрузки501_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки 5.01 (файл 1)</value>
+    </synonym>
+  </templates>
+  <templates uuid="3a67394d-dec7-4cda-b7d8-3dfe254728d4">
+    <name>СхемаВыгрузки501_2</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки 5.01 (файл 2)</value>
+    </synonym>
+  </templates>
+  <templates uuid="23f09052-1a4b-4b38-84f2-a24d4a408935">
+    <name>ФормаОтчета2020Кв1_Реестр</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реестр</value>
+    </synonym>
+  </templates>
+  <templates uuid="cbe0b683-36b5-4284-8bbe-d4fe7b2ea52e">
+    <name>ФормаОтчета2020Кв1_Титульный</name>
+    <synonym>
+      <key>ru</key>
+      <value>Титульный лист</value>
+    </synonym>
+  </templates>
+</mdclass:Report>

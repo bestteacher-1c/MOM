@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:FunctionalOption xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="ce86e4a3-5a00-4dba-a2ab-6d84433fd6ee" extendedConfigurationObject="441a6c85-907c-4687-8080-8228e2c29dff">
+  <name>ИспользоватьОрдернуюСхемуПриПоступлении</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:FunctionalOptionExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <location>Checked</location>
+  </extension>
+  <location>Catalog.Склады.Attribute.ИспользоватьОрдернуюСхемуПриПоступлении</location>
+</mdclass:FunctionalOption>

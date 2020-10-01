@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="8c838657-0cbb-4e7c-ae0e-5c38a99dbeef" extendedConfigurationObject="046cb3ce-b803-4c4e-a47e-21220274dfff">
+  <producedTypes>
+    <managerType typeId="0dfd23f1-890c-4ff0-aa41-9cfeda14422c" valueTypeId="4c4093d5-f172-4501-9cc9-61dc5facd5ec"/>
+    <valueManagerType typeId="49a93b5a-1bca-47af-838e-2663e2accc98" valueTypeId="dd2be5d7-9636-441e-a408-7c0e9fb1a788"/>
+    <valueKeyType typeId="7fcad08e-d7ee-43e6-88f2-c141c52a96ec" valueTypeId="1f25b1ef-f9ba-4262-8fba-639273d3d5b4"/>
+  </producedTypes>
+  <name>ИспользоватьКачествоТоваров</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConstantExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <type>Checked</type>
+  </extension>
+  <type>
+    <types>Boolean</types>
+  </type>
+</mdclass:Constant>

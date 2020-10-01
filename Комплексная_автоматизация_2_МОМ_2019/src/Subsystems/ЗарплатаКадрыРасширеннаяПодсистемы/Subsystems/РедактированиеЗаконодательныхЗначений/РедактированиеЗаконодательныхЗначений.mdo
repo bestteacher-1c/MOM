@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a7e18421-ff9f-44f0-9530-dd868515d065">
+  <name>РедактированиеЗаконодательныхЗначений</name>
+  <synonym>
+    <key>ru</key>
+    <value>Редактирование законодательных значений</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>5e713fd7-8329-44fb-91e6-1b27d9e0e203</content>
+  <content>Constant.РазрешеноРедактированиеОбщихДанных</content>
+  <content>DataProcessor.РедактированиеЗаконодательныхЗначений</content>
+  <content>Role.ИспользованиеОбработкиРедактированиеЗаконодательныхЗначений</content>
+  <parentSubsystem>Subsystem.ЗарплатаКадрыРасширеннаяПодсистемы</parentSubsystem>
+</mdclass:Subsystem>

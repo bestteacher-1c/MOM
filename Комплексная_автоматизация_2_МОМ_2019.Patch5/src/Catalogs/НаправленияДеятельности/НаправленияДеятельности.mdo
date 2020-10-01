@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="f4c35891-e737-4dff-ae17-6d21f3078a8c">
+  <producedTypes>
+    <objectType typeId="aa3199d8-1d01-4643-8f14-85b655d4101d" valueTypeId="8069bb97-333c-4b70-bd18-8b56816ed9ce"/>
+    <refType typeId="9a2b711e-acc5-4e36-9201-243cf9f4ef34" valueTypeId="04c68daf-9c2d-4c7e-b175-23e0804d41b5"/>
+    <selectionType typeId="47f7e8ff-019c-4050-bfa8-7c78755c1b5d" valueTypeId="c11773a7-8e56-4699-9055-803b8ceac821"/>
+    <listType typeId="66a9fcf7-3bee-4e33-8d0d-2b928293a62f" valueTypeId="5d2e155c-e892-4e64-a997-239e31ef3e0a"/>
+    <managerType typeId="75d0f0fa-a286-4ee7-bf65-125d47173074" valueTypeId="a25ebe5e-b73c-4558-a2c6-4e0d9713d5f7"/>
+  </producedTypes>
+  <name>НаправленияДеятельности</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

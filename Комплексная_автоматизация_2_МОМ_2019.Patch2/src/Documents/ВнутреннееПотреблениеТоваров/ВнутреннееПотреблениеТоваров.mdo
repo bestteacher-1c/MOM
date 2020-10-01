@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="893de0b1-f94b-4b6e-aa69-037cfa0709fa">
+  <producedTypes>
+    <objectType typeId="f3e11ab9-2914-476b-9e19-767e6852dc70" valueTypeId="aac3f839-6f14-44cd-a2e1-a72a7b81bcba"/>
+    <refType typeId="8cf89808-7da6-45fe-9510-5376bfbd82a8" valueTypeId="d3d194a0-80ee-4855-8995-6a3bd9e6f83d"/>
+    <selectionType typeId="b9e362c7-0ddd-4a61-878e-aee0e038d65f" valueTypeId="5dddea31-7362-4599-b075-40f218b9eda3"/>
+    <listType typeId="24c0c5fa-c185-4aec-abc8-b13bbf37b55a" valueTypeId="fe3c619e-3bde-41ea-bdc0-be2894bf923b"/>
+    <managerType typeId="dc491828-6bc9-4eed-ae26-9742a43a7b92" valueTypeId="64d11f96-94ec-4dce-b473-0460b948aac6"/>
+  </producedTypes>
+  <name>ВнутреннееПотреблениеТоваров</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension"/>
+  <forms uuid="f48efb30-cca0-4eef-9c13-e9b51122ca19">
+    <name>ФормаДокумента</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFormExtension">
+      <form>Extended</form>
+    </extension>
+  </forms>
+</mdclass:Document>

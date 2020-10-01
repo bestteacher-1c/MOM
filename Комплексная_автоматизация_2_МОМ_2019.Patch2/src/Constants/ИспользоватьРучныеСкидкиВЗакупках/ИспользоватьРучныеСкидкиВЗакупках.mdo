@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="75b25e8e-5e5d-4a08-b0f6-46cb52fd888b" extendedConfigurationObject="3e2da6cf-136a-4328-a8b8-d86161f4bd83">
+  <producedTypes>
+    <managerType typeId="1ddaa1bd-0858-453d-864b-c1d16d75f37b" valueTypeId="53738855-d249-4ceb-9dc4-80305c59df28"/>
+    <valueManagerType typeId="1f5e4d51-d624-4611-99c8-c4bdd3ff859a" valueTypeId="1a99177b-267a-4532-a4ca-2ab85ed3e5d3"/>
+    <valueKeyType typeId="3ce4c03e-3b24-4281-8918-9bf2df310a1f" valueTypeId="a25718e6-529c-4f27-8506-be0ba688d207"/>
+  </producedTypes>
+  <name>ИспользоватьРучныеСкидкиВЗакупках</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConstantExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <type>Checked</type>
+  </extension>
+  <type>
+    <types>Boolean</types>
+  </type>
+</mdclass:Constant>

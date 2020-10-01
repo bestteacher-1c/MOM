@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="a8327028-74fc-416a-ba1f-5068bba936b9">
+  <producedTypes>
+    <objectType typeId="d5fae179-298b-4195-b143-6fcde5f9b3ff" valueTypeId="54b3a049-f637-4801-9b3b-c618c620302d"/>
+    <refType typeId="55581248-3eb1-47ff-aa98-115846cbda0e" valueTypeId="760066bc-cac7-4279-9670-b924623b2736"/>
+    <selectionType typeId="07920c4c-f1ad-45f6-9830-f48c2834554b" valueTypeId="a3743b94-09ee-48a2-8872-017fc0046b15"/>
+    <listType typeId="a0dc2184-6048-4c84-95a4-3bbdbc425f39" valueTypeId="ce27001f-5a32-4168-998b-0faf80fa1bed"/>
+    <managerType typeId="ba031480-9162-4bdd-ad2b-68dfe89f70d0" valueTypeId="0e25771e-8766-4068-873c-11ca2f67baf0"/>
+  </producedTypes>
+  <name>ДоговорЗаймаСотруднику</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension"/>
+</mdclass:Document>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fab7121f-f8c5-4921-9566-144340ca4946">
+  <producedTypes>
+    <objectType typeId="6b86b7e3-ee3d-480a-8a61-e46e7af3a58c" valueTypeId="d03f166e-ae48-4c26-b863-f24b05c1fdbd"/>
+    <managerType typeId="bd95593a-06f0-42c8-a34b-c3233343ec95" valueTypeId="4ec4e418-85b2-42f0-b2b9-56bb324e0212"/>
+  </producedTypes>
+  <name>РегламентированныйОтчетСтатистикаФорма1РЦ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Форма 1-РЦ &quot;Сведения о структуре отпускной цены на отдельные виды товаров&quot;</value>
+  </synonym>
+  <defaultForm>Report.РегламентированныйОтчетСтатистикаФорма1РЦ.Form.ОсновнаяФорма</defaultForm>
+  <includeHelpInContents>true</includeHelpInContents>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
+  <forms uuid="955f8646-6c5e-4a83-ad0a-e1533bb3fae8">
+    <name>ОсновнаяФорма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Статистика: Форма 1-РЦ</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="feea7570-7db1-4466-85a4-e63a647e7f9a">
+    <name>ФормаОтчета2019Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма 1-РЦ</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="4d5c6be7-0bb7-44a1-83a6-14e40f9f6d53">
+    <name>АтрибВыгрузкиXML2019Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Атрибуты выгрузки XML 2019 кв1</value>
+    </synonym>
+    <comment>Дополнительные атрибуты для выгрузки в XML</comment>
+  </templates>
+  <templates uuid="2b809773-f8e7-47b6-98c3-8a4685daa7be">
+    <name>СхемаВыгрузкиXML2019Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки XML2019 кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="1ff838cb-6fb9-4dda-949d-ef24d618168c">
+    <name>ФормаОтчета2019Кв1_ФормаОтчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета2019 кв1 форма отчета</value>
+    </synonym>
+  </templates>
+  <templates uuid="0516196b-664d-4f53-89dd-ae1dd9bce8c1">
+    <name>ШаблонРосстата2019Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Шаблон росстата2019 кв1</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="58650475-5722-4213-ac58-b4fdacdd618c">
+    <name>НастройкиЗагрузкиXML2019Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки загрузки из файла XML 2015 (кв.1)</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="a8ee06d0-ecd8-49a6-9738-6b0ed42371c6">
+    <name>Списки2019кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки2019кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="04a79fca-d653-412b-9c30-6789001dc51b">
+    <name>НастройкиСравнения2019Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки сравнения отчетов 2019 (кв.1)</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:Report>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="36b756e2-d513-4b80-9276-1efd891d898f">
+  <producedTypes>
+    <objectType typeId="7a0eb8e9-b445-43be-9097-756feefc7b7b" valueTypeId="05dba4de-88f9-451e-88fa-f3f786e15f90"/>
+    <refType typeId="4eb58bd7-a99e-4c4f-ae76-0e58652127e5" valueTypeId="f4beb495-a88b-4719-905f-68d465b99e70"/>
+    <selectionType typeId="40d5d2fa-09b7-4669-a350-3f6da0dfc1f2" valueTypeId="d06575ff-66dc-4659-bc25-51351ea6bd51"/>
+    <listType typeId="2ef816cb-8439-4cdc-b99d-09afff94f135" valueTypeId="0693bca7-b186-40a7-9cc0-fcd81c8dfc32"/>
+    <managerType typeId="620e2da5-c19d-490d-9948-29974ba9ca63" valueTypeId="379d8dca-54c1-44b0-973c-42574b927381"/>
+  </producedTypes>
+  <name>Склады</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+  <attributes uuid="1aa66ae0-bd8e-45bd-b979-7dd43a69f7d6">
+    <name>ИспользоватьОрдернуюСхемуПриОтгрузке</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>Boolean</types>
+    </type>
+  </attributes>
+  <attributes uuid="a47d4bed-2bff-428d-901e-49dbdcd0eb59">
+    <name>ИспользоватьСерииНоменклатуры</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>Boolean</types>
+    </type>
+  </attributes>
+  <attributes uuid="2033d60b-f605-4b36-99ea-96c09ef6fc64" extendedConfigurationObject="6e8f132c-946f-45cd-bc8f-57819f36624e">
+    <name>ИспользоватьОрдернуюСхемуПриПоступлении</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>Boolean</types>
+    </type>
+  </attributes>
+</mdclass:Catalog>

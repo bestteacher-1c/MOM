@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="44b77f2d-c78b-4de3-b93a-3827dc1e501e">
+  <producedTypes>
+    <containerType typeId="2cc44a33-8c73-4cd8-af7d-91290e291c8a" valueTypeId="081a274a-d939-4446-a894-e4e2babad8bb"/>
+  </producedTypes>
+  <name>Артикул</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DefinedTypeExtension">
+    <type>Checked</type>
+  </extension>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>50</length>
+    </stringQualifiers>
+  </type>
+</mdclass:DefinedType>

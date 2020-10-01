@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="c935814f-0eeb-439e-983c-5a6c807f031d">
+  <producedTypes>
+    <refType typeId="0c319eec-019d-48d3-8213-8aa2609b7f76" valueTypeId="bbbcfca9-1e9e-4f57-8b54-bdcaabf74613"/>
+    <listType typeId="78d68b91-a769-4009-b40e-2105754c6ac7" valueTypeId="b19bfef8-e061-47f6-8fb0-72300ff1cd02"/>
+    <managerType typeId="65a9db06-0cb7-46aa-b487-40b7ff7a8ab3" valueTypeId="8ed62ad6-153c-404b-8d0a-765d1544dfc2"/>
+  </producedTypes>
+  <name>СтатусыОбработкиИсходящихТранспортныхОперацийВЕТИС</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+</mdclass:Enum>

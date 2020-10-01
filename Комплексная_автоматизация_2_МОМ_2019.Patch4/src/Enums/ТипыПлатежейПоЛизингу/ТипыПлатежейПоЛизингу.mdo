@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="291659af-4cdb-4056-8541-d96660750d91">
+  <producedTypes>
+    <refType typeId="02d21077-f34f-4630-9e7b-ad1e3cf84c2c" valueTypeId="e62dba0c-aa1b-494c-9bf8-1779f9cd3de8"/>
+    <listType typeId="a84eeeb6-6da4-4ada-890e-438e8e579017" valueTypeId="7925865b-e52e-4259-98d2-47f6eacbc19e"/>
+    <managerType typeId="5152334a-7f64-44d1-8ece-a98c5099ba47" valueTypeId="80881c88-0359-43a3-b1fb-43b789da0de4"/>
+  </producedTypes>
+  <name>ТипыПлатежейПоЛизингу</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+</mdclass:Enum>

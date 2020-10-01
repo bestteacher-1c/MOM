@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="1502e6d0-22bc-43fa-b67e-790693d171a2">
+  <producedTypes>
+    <refType typeId="644e2d7f-f9f6-4270-91c4-d70959fd2d3f" valueTypeId="e78d7698-2d4d-4522-86e6-ea33e119ba96"/>
+    <listType typeId="67702ef1-6259-4417-a718-5a6040583e15" valueTypeId="8d4a2ae6-cab3-40bb-8ad9-b4e935c2350e"/>
+    <managerType typeId="638a01ae-b162-4298-b681-f01e5c3f94a7" valueTypeId="536fa0db-c31f-4f8e-bcad-6b956569a65f"/>
+  </producedTypes>
+  <name>СтатусыПеремещенийТоваров</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+</mdclass:Enum>

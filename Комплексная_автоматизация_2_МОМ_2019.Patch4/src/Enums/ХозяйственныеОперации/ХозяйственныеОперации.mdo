@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="486d9653-1a05-40a2-8f5e-88691282d2b6">
+  <producedTypes>
+    <refType typeId="7b93a210-e661-4ae7-8630-efc7d6cc7967" valueTypeId="6164816b-4a7d-4198-b851-ed2e57eda6bf"/>
+    <listType typeId="f770e95f-2217-41ce-a1b9-c22e0d5433fa" valueTypeId="881458fe-93b1-43fe-9e94-09a86f5f20dd"/>
+    <managerType typeId="f50f81bc-ee6b-468b-9f60-a55373119003" valueTypeId="e3954ca3-acbe-4406-a1e5-e89d4eca3ce7"/>
+  </producedTypes>
+  <name>ХозяйственныеОперации</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <enumValues uuid="8b5aa1f7-e6e0-442e-ae37-c0afaaa488fe">
+    <name>ПоступлениеОплатыОтКлиента</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="2f13132f-0ff9-420a-ae8f-802ea937c314">
+    <name>ПоступлениеДенежныхСредствИзДругойОрганизации</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="6a681a88-4c55-4f69-a262-890fd788adbd">
+    <name>ИнкассацияДенежныхСредствИзБанка</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="ec37a28a-3daf-462d-9aa0-404fabb9899f">
+    <name>ПоступлениеДенежныхСредствИзДругойКассы</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="29cd6da0-cd58-4359-89cb-bfe25326d048">
+    <name>ВнутренняяПередачаДенежныхСредств</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="9a970c6e-756d-41da-81d7-27d64142df53">
+    <name>ПрочееПоступлениеДенежныхСредств</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="d690b8ba-9a13-46c6-b68e-8217b7c255db">
+    <name>ПоступлениеДенежныхСредствИзКассыККМ</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="8832694f-77b0-4d9a-b433-8a4dbb47303e">
+    <name>ПоступлениеДенежныхСредствИзБанка</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="e02f73b5-e53b-4a15-9c06-1b4686e6065c">
+    <name>ПоступлениеДенежныхСредствПоКредитам</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="43c4e3ea-552e-40bc-aeb8-4e1639fa4458">
+    <name>ПоступлениеДенежныхСредствПоЗаймамВыданным</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="fbba7a21-bd5e-4a34-961d-5ddbd815709c">
+    <name>ПогашениеЗаймаСотрудником</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="d5b1da6d-4ed9-4fef-a871-8a3f3438393f">
+    <name>КонвертацияВалюты</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="ba57963d-b8d8-4b8f-ac4a-389381093614">
+    <name>ВозвратДенежныхСредствОтПоставщика</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="1fdf8c6b-6ca8-4cd6-a8e1-aa89b9644cda">
+    <name>ВозвратДенежныхСредствОтПодотчетника</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="53b3d2be-3d1f-4779-8f46-38a577c4631c">
+    <name>ВозвратДенежныхСредствОтДругойОрганизации</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="952b29e0-8675-41c7-b3eb-fd2d88aea7a3">
+    <name>ВыдачаДенежныхСредствПодотчетнику</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="bbc4c3ea-b524-4074-97bc-9a5bfa348881">
+    <name>ОплатаДенежныхСредствВДругуюОрганизацию</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="35f5728f-48b3-4ff8-936b-a133874017ad">
+    <name>СдачаДенежныхСредствВБанк</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="7a34589a-664f-4dc2-ba92-58fc1c7ea883">
+    <name>ОплатаПоставщику</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="5253c0bf-5408-4c3f-8162-84be7b0870cd">
+    <name>ВыплатаЗарплатыЧерезКассу</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="cecca571-6dca-439a-8417-17671b464b30">
+    <name>ВыплатаЗарплатыРаздатчиком</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="7ea1d6af-5798-493b-b824-06e499c3a8c2">
+    <name>ВыплатаЗарплатыРаботнику</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="fd6c42b9-adfb-4515-b4f2-7dc5c57b7721">
+    <name>ИнкассацияДенежныхСредствВБанк</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="93f7d1ff-1781-463b-a75e-6cc6fd4beeb5">
+    <name>ВыдачаДенежныхСредствВДругуюКассу</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="b3699a19-407e-4cce-8b59-a67820d865b8">
+    <name>ВыдачаДенежныхСредствВКассуККМ</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="ed5b1a48-36ec-4e48-9e36-b0e5332a9ada">
+    <name>ОплатаПоКредитам</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="5b1cd911-17ec-469d-9d11-ebc9a15f1878">
+    <name>ВыдачаЗаймов</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="d4ae477f-9621-4066-9d78-cf9e2071ece1">
+    <name>ВыдачаЗаймаСотруднику</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="53fe19b6-3753-4585-a16e-b70e57fb38ab">
+    <name>ПрочаяВыдачаДенежныхСредств</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="b865763c-3ce6-4c2a-8df7-8e83a000f80d">
+    <name>ВозвратОплатыКлиенту</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="ffb97d43-08a0-48b1-a395-9cfbc3adadef">
+    <name>ВозвратДенежныхСредствВДругуюОрганизацию</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="b8ae5f39-4dd5-4f59-ac86-4ba9a737114b">
+    <name>ОплатаЛизингодателю</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+</mdclass:Enum>

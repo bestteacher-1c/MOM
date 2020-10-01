@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="6b34dd4e-d0c5-45fc-9aef-1a5ccbfa8051">
+  <producedTypes>
+    <objectType typeId="e8c6ae2e-b5c0-4e33-bf09-d86187829e20" valueTypeId="4716d10a-5d05-4abf-9a6e-dff8a389259e"/>
+    <refType typeId="689bb160-1dff-4a6c-8457-244679d1f432" valueTypeId="a82fab5b-9445-4362-b797-905702d8fe45"/>
+    <selectionType typeId="6f46e302-b6de-4334-858b-695177027281" valueTypeId="e39c07c6-7a18-4f13-8256-f791fcf8a816"/>
+    <listType typeId="01263dbe-0926-4533-a9d6-613d3ed5b09b" valueTypeId="c333a02f-ba8b-4dc8-a9ca-2f004b86e393"/>
+    <managerType typeId="4a52b396-23c6-4bbd-884c-4d6cd6d1a951" valueTypeId="7fe0645e-3ddc-44f3-8584-3b1c7c5750d6"/>
+  </producedTypes>
+  <name>ХозяйствующиеСубъектыВЕТИС</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

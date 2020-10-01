@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="7e407ba5-caf6-41e4-9ea7-7d63b5b8b536">
+  <producedTypes>
+    <managerType typeId="39c93ecb-a42c-4ae8-9400-f6f50bf001fa" valueTypeId="61b45049-3412-4b94-bc9d-45d6df8ee42a"/>
+    <valueManagerType typeId="7673d7e8-2119-48b8-a637-1e282675733e" valueTypeId="4fb61ee8-2092-4a16-bdc8-21f3ac590666"/>
+    <valueKeyType typeId="dde68117-c30e-562a-8a88-14faeb932f17" valueTypeId="2d9159d2-7761-53e2-b8f5-4c6b12c472d6"/>
+  </producedTypes>
+  <name>ИспользоватьМногооборотнуюТару</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConstantExtension">
+    <type>Checked</type>
+  </extension>
+  <type>
+    <types>Boolean</types>
+  </type>
+</mdclass:Constant>

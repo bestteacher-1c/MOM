@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="738f1c76-121e-468e-b914-11786fa409fa">
+  <producedTypes>
+    <objectType typeId="a4d79b23-d8f1-40d0-b32a-d109c45438f5" valueTypeId="58c845e5-4831-40a6-b1dd-69e5869b40d1"/>
+    <refType typeId="ad4dba1f-aac6-4015-9f9e-0bad8e6d40f4" valueTypeId="84d01f8c-dcef-48d0-a5e8-f1fce3c1ba25"/>
+    <selectionType typeId="089dbb83-8834-4fb1-bfa4-9f1643123fb0" valueTypeId="b6032e27-2bb5-4a8d-9b02-dabcdc58306a"/>
+    <listType typeId="3c3a2950-afae-410d-a24d-5088957ffd8e" valueTypeId="3837fcbe-d76f-4837-b719-3dcb08b682e6"/>
+    <managerType typeId="05826a5f-53a0-4c8d-a568-31bd6220aa10" valueTypeId="8a543f89-f090-447c-85bf-2ee1f3f53c68"/>
+  </producedTypes>
+  <name>ЕдиницыИзмеренияВЕТИС</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

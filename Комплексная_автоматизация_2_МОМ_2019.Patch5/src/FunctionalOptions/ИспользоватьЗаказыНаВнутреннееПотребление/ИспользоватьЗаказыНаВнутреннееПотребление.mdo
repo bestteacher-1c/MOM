@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:FunctionalOption xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="8e48f9e9-cb13-45ac-b382-121231bddd68">
+  <name>ИспользоватьЗаказыНаВнутреннееПотребление</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:FunctionalOptionExtension">
+    <location>Checked</location>
+  </extension>
+  <location>Constant.ИспользоватьЗаказыНаВнутреннееПотребление</location>
+</mdclass:FunctionalOption>

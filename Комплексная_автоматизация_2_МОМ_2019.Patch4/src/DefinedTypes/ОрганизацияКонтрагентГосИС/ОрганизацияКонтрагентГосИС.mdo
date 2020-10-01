@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="d801347f-bde5-4a48-baa3-e923fc6ed560">
+  <producedTypes>
+    <containerType typeId="d45ef0d1-eb8d-4288-ad60-42baf167d916" valueTypeId="cc45d5b4-e8bd-44e6-bba2-d13dadf27c32"/>
+  </producedTypes>
+  <name>ОрганизацияКонтрагентГосИС</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DefinedTypeExtension">
+    <type>Checked</type>
+  </extension>
+  <type/>
+</mdclass:DefinedType>

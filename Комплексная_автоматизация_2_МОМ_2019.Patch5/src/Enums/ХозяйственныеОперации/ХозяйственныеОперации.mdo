@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="55b73fd0-fb16-4422-8d05-7ae125d28fe9">
+  <producedTypes>
+    <refType typeId="7eb6dbcf-c6f2-46c2-98f8-2dbaf824952d" valueTypeId="800ef0eb-c9d9-4dc0-be38-3ae1c07bac0d"/>
+    <listType typeId="d6d12a1d-1fc4-4719-8215-bbed04bc0f2a" valueTypeId="2f745337-9b1d-4343-bc40-b57af87f98a0"/>
+    <managerType typeId="8a59016f-e132-47bb-8586-ffa0e8bf983c" valueTypeId="a7f31953-5e4e-4acc-9b26-783e54f6428a"/>
+  </producedTypes>
+  <name>ХозяйственныеОперации</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <enumValues uuid="a89a328c-11d0-4042-8964-46580ef6700c">
+    <name>СписаниеТоваровПоТребованию</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="aae6d6f3-d932-4acc-8aa7-cad6b163107b">
+    <name>ПередачаВЭксплуатацию</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+</mdclass:Enum>

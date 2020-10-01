@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="b0632b0e-b9ed-4af3-bb2a-830a87f7b0c9">
+  <producedTypes>
+    <refType typeId="9e69d934-7726-438c-8df5-b3d9d7c9534d" valueTypeId="447c1922-546d-4390-ae1f-cf265efd176f"/>
+    <listType typeId="304252f9-7906-4edd-8423-bfa0cc6ece6c" valueTypeId="8f08a348-9876-4a95-ab6e-3b59196675fe"/>
+    <managerType typeId="70da87de-6689-4d1e-9672-d5f354385364" valueTypeId="7af2abd8-f6b7-41cb-9f71-dec8e8829ece"/>
+  </producedTypes>
+  <name>СтавкиНДС</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+</mdclass:Enum>

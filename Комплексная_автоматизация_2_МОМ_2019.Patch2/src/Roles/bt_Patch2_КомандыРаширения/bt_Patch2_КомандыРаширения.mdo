@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="26c3f477-a063-4501-877c-be5f348ab1fd">
+  <name>bt_Patch2_КомандыРаширения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Bt patch2 команды раширения</value>
+  </synonym>
+</mdclass:Role>

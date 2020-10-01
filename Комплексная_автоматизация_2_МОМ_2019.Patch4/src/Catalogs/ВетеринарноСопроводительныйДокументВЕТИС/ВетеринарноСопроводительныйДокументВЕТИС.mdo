@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="32370ba1-855e-4f04-b3db-fac492b44d7b">
+  <producedTypes>
+    <objectType typeId="359bbdf7-31fb-4f94-b917-0ac9a1e3804b" valueTypeId="820ade96-8aa1-40af-80ba-3ea162baa3f7"/>
+    <refType typeId="c91a409d-024d-42ac-8df0-975052d618f3" valueTypeId="564f8fed-0060-4043-8f34-60e96ba72241"/>
+    <selectionType typeId="f623d15d-8258-4462-9851-09e8fc56b23f" valueTypeId="a70001a9-f9d0-44ef-9496-e32ac6472009"/>
+    <listType typeId="7b86834a-425d-45b9-ad2c-e769be7ab4dd" valueTypeId="31a3ca98-8758-4607-afe6-e3fa4716574a"/>
+    <managerType typeId="eac7744f-ca61-43d5-9e21-91710a78312b" valueTypeId="c562f834-9753-49e8-a65a-3b6cf7e5f057"/>
+  </producedTypes>
+  <name>ВетеринарноСопроводительныйДокументВЕТИС</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

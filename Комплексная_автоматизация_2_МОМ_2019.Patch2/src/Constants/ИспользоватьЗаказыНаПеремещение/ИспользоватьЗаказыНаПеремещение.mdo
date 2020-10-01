@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="89f5f81f-bda5-46a6-a68d-e92122e4b1bd">
+  <producedTypes>
+    <managerType typeId="08d20e8e-df47-47d7-ad7d-0c1a002e5a3a" valueTypeId="9b9dd785-553f-4adb-ad52-6277e0e5e8df"/>
+    <valueManagerType typeId="47e006e1-575d-4dbc-9f4c-f42f8f65bbca" valueTypeId="665bff8b-a86e-4f20-8951-7ad437ee96fa"/>
+    <valueKeyType typeId="e382ac44-c575-4a49-a8db-57c47127b5f4" valueTypeId="d2b71ed7-4e73-4a48-b6a7-de6acc7cb5bc"/>
+  </producedTypes>
+  <name>ИспользоватьЗаказыНаПеремещение</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConstantExtension">
+    <type>Checked</type>
+  </extension>
+  <type>
+    <types>Boolean</types>
+  </type>
+</mdclass:Constant>

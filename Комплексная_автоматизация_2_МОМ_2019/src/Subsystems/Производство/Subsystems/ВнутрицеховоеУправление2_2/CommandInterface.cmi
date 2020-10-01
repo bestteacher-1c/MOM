@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmi:CommandInterface xmlns:cmi="http://g5.1c.ru/v8/dt/cmi">
+  <commandsVisibility>
+    <visibilityFragments>
+      <command>0:082fb8a6-da4e-4e3d-859b-af34a30e4d09</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>0:31d811db-a5be-4b91-a531-879914fa4184</command>
+      <visible/>
+    </visibilityFragments>
+  </commandsVisibility>
+  <commandsOrder>
+    <orderFragments>
+      <group>NavigationPanelOrdinary</group>
+      <commands>0:fb4c80a1-778f-46ec-81cb-4e49990ea4cb</commands>
+      <commands>0:755e98d1-75b3-4da1-9075-0e8e52a5aeaa</commands>
+      <commands>0:f36efc36-b43e-4ccd-8b23-80d2497c2df7</commands>
+      <commands>0:79644c25-0e72-4343-8bfc-2c100f35a944</commands>
+      <commands>0:a236cec4-ef48-4965-a9a7-e036367a346d</commands>
+      <commands>Document.ЗаказМатериаловВПроизводство.StandardCommand.OpenList</commands>
+      <commands>0:082fb8a6-da4e-4e3d-859b-af34a30e4d09</commands>
+    </orderFragments>
+  </commandsOrder>
+</cmi:CommandInterface>

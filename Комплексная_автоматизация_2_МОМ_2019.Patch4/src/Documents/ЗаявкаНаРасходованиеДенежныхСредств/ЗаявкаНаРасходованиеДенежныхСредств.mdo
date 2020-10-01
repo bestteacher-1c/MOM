@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="5e5be9c1-d1d0-433c-8df4-aa76008b8709">
+  <producedTypes>
+    <objectType typeId="bb34a67a-9fd2-40f2-a625-4c040eb2629b" valueTypeId="dc9d84d9-2515-46f5-b701-19ad6c0c808b"/>
+    <refType typeId="f0a01e4b-ecbb-4e67-b177-9be4bd357b1d" valueTypeId="cfe9c47d-9580-4b39-b4e1-8b1fe997021d"/>
+    <selectionType typeId="c5d701f1-78b1-4385-a4c0-ea403aa8ebab" valueTypeId="9c9f3ff3-6b2a-41b6-a8a6-3acbb45401aa"/>
+    <listType typeId="9fba9215-cae8-47f3-b529-1b47b291cf71" valueTypeId="5f803b5a-42db-4b57-afda-4564d0c7ebed"/>
+    <managerType typeId="5526ea37-f5c6-4ba9-b6ed-fb403f345354" valueTypeId="26461c5b-9a26-420e-9dbe-aa190df0ac64"/>
+  </producedTypes>
+  <name>ЗаявкаНаРасходованиеДенежныхСредств</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension"/>
+</mdclass:Document>

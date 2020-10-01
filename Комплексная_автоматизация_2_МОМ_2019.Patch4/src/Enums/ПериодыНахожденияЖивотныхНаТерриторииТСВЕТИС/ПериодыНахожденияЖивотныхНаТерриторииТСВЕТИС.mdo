@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="09905221-3eeb-463a-841f-4dc9679d31e1">
+  <producedTypes>
+    <refType typeId="f0c1779c-8fbe-4481-a973-666bb6bc30ee" valueTypeId="aef1ce47-93d5-4c5b-89ee-0a6c90d79856"/>
+    <listType typeId="bd32591a-31d1-4b4f-b72e-2195eea93598" valueTypeId="10d635c2-b835-49eb-b873-c0f4382eefe7"/>
+    <managerType typeId="a92edc2f-d3f7-4a8c-bb2f-dd708e7d554e" valueTypeId="f63be631-eaf2-4155-b7cb-625c5a6e9ce3"/>
+  </producedTypes>
+  <name>ПериодыНахожденияЖивотныхНаТерриторииТСВЕТИС</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <enumValues uuid="4e6eabd9-1c50-4d69-942d-e71ed757622d">
+    <name>Никогда</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="1b6014bf-71ec-4939-bfb5-3030a48344b9">
+    <name>СРождения</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="5a91f89c-5c62-4265-9d4a-4c853b9d3c3a">
+    <name>НеМенее6Месяцев</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="134554d1-a2af-4386-9554-5457f25f22aa">
+    <name>ЗначениеВМесяцах</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+</mdclass:Enum>

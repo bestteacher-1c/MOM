@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="e376dbf3-6280-4833-891f-691b3333649d" extendedConfigurationObject="0b05aed8-fa7c-4007-8440-588c8264cdf3">
+  <producedTypes>
+    <refType typeId="b6aece51-f2d5-461e-bae8-58569272acd4" valueTypeId="4ee27b10-fad3-45a4-9771-9095469afb04"/>
+    <listType typeId="c77535c1-fbca-429e-890a-a4ec960c759d" valueTypeId="1d72ea5f-cf34-4a60-8058-4ebac5b1e91b"/>
+    <managerType typeId="38a4889d-606a-4db3-a56a-eec99b7cc3bf" valueTypeId="934a91cc-ea5e-4278-9223-c9b2e4cc0111"/>
+  </producedTypes>
+  <name>ТипыКассККМ</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <enumValues uuid="bdcb0348-fb03-49bb-b6c3-c2a445f26a36" extendedConfigurationObject="cda1af7f-a79b-4660-ba19-734ff8c9744c">
+    <name>АвтономнаяККМ</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+</mdclass:Enum>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:FunctionalOption xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="6035c1df-3235-4ed9-86ef-8da698d25f25">
+  <name>ИспользоватьСерииНоменклатурыСклад</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:FunctionalOptionExtension">
+    <location>Checked</location>
+  </extension>
+  <location>Catalog.Склады.Attribute.ИспользоватьСерииНоменклатуры</location>
+</mdclass:FunctionalOption>

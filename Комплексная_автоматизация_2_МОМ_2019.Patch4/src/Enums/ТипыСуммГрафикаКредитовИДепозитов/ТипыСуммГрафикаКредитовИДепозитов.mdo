@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="ab70ac7b-3264-46f8-85c7-1286ebe20e71">
+  <producedTypes>
+    <refType typeId="cfe4e099-84c5-4e06-8c97-b59b86035d4f" valueTypeId="75c4fa1f-a307-4410-a876-8d37549cb68d"/>
+    <listType typeId="bf388b96-78dd-4540-9acb-b1ee334baaea" valueTypeId="47565a81-9b11-4e58-867d-1c34bf65d2de"/>
+    <managerType typeId="7f85523b-3fe1-4967-a9eb-3001f5065a71" valueTypeId="2b58d664-5017-4802-a52e-4b6058a6639e"/>
+  </producedTypes>
+  <name>ТипыСуммГрафикаКредитовИДепозитов</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+</mdclass:Enum>

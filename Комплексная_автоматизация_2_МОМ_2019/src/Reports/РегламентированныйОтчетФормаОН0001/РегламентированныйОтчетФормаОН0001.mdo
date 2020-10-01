@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f0078ccd-2712-48f5-9240-38731c5802fe">
+  <producedTypes>
+    <objectType typeId="dae2c275-304e-4195-b7c3-3f03f24cc3e9" valueTypeId="9620baed-49e9-4aeb-9eb3-15659ae9f32b"/>
+    <managerType typeId="50e25e2a-8757-48ed-84bf-ce1235d01f1d" valueTypeId="022b260f-8c7d-4afc-a122-39bad1e65930"/>
+  </producedTypes>
+  <name>РегламентированныйОтчетФормаОН0001</name>
+  <synonym>
+    <key>ru</key>
+    <value>Форма ОН0001</value>
+  </synonym>
+  <defaultForm>Report.РегламентированныйОтчетФормаОН0001.Form.ОсновнаяФорма</defaultForm>
+  <includeHelpInContents>true</includeHelpInContents>
+  <forms uuid="4d9f9eb1-0cc5-4012-a336-af15bad37d03">
+    <name>ОсновнаяФорма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма ОН0001</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="74880b9f-6932-461b-9ad9-debfa34fbeb4">
+    <name>ФормаОтчета2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма ОН0001</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="3424a12d-85bb-4a20-9c7e-c79818ec596c">
+    <name>ФормаОтчета2020Кв1_Титульный</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета2020 кв1 титульный</value>
+    </synonym>
+  </templates>
+  <templates uuid="c6bdbd85-8c31-43db-b543-b3e3ad8aa308">
+    <name>ФормаОтчета2020Кв1_УпрДеят</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета2020 кв1 упр деят</value>
+    </synonym>
+  </templates>
+  <templates uuid="28c7484a-df51-40bd-bda3-6a2c22d9b725">
+    <name>ФормаОтчета2020Кв1_ПерсСостав</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета2020 кв1 перс состав</value>
+    </synonym>
+  </templates>
+  <templates uuid="fa3492d5-c2af-40f4-b056-c0c04506e113">
+    <name>ПечатнаяФорма2020Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Печатная форма2020 кв1</value>
+    </synonym>
+  </templates>
+</mdclass:Report>

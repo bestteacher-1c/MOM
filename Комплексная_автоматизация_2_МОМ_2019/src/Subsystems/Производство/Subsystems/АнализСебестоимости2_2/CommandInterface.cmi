@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmi:CommandInterface xmlns:cmi="http://g5.1c.ru/v8/dt/cmi">
+  <commandsVisibility>
+    <visibilityFragments>
+      <command>Report.АнализСебестоимостиВыпущеннойПродукции.StandardCommand.Open</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>Report.ДеревоСебестоимостиПродукции.StandardCommand.Open</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>0:dcad80bc-6132-4e93-b262-8f53fa3e2fea</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>0:fc9d12da-83f1-4adb-9c57-d39538adb7db</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>0:a1fb96ac-5a0a-4e35-8aa7-46d6e011451c</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>0:0088734e-3d30-4d4b-a96b-cbca0b881177</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>Report.ФактическаяСебестоимостьПродукции.StandardCommand.Open</command>
+      <visible/>
+    </visibilityFragments>
+  </commandsVisibility>
+</cmi:CommandInterface>

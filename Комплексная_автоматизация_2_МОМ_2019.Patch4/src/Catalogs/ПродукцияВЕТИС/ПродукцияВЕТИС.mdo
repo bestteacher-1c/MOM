@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="3053e7d3-4229-4f8b-8647-bc121dddd3f5">
+  <producedTypes>
+    <objectType typeId="b882e53e-3b63-4006-bb2e-0376b94fac07" valueTypeId="612036fe-b903-4ed8-becb-caf9d1d24af9"/>
+    <refType typeId="0cbacc0b-3e06-435d-8cb1-05e1f36d6ce2" valueTypeId="d31490e7-c9a4-4333-9739-389171459b42"/>
+    <selectionType typeId="dab03267-b652-452b-b8e5-4d352ecd1484" valueTypeId="5c56d9d3-a9cf-4a82-905b-6b91241453b8"/>
+    <listType typeId="6fb900c6-9008-4571-85e8-02ac196466ad" valueTypeId="6ef1d096-a75e-4615-94a4-5e9b31560ec4"/>
+    <managerType typeId="93fef194-f17b-45a3-a13d-6cdd6000b012" valueTypeId="b600263f-c9d2-4e87-8737-f9ef37d1442f"/>
+  </producedTypes>
+  <name>ПродукцияВЕТИС</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

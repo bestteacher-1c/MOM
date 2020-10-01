@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="d539a855-d19a-47cb-bff4-8327195e0cf2">
+  <producedTypes>
+    <managerType typeId="6062a07a-e926-4071-b0a8-565eb20e32cc" valueTypeId="1485e2ed-d272-4cd0-87dd-b45a542b17cb"/>
+    <valueManagerType typeId="f9ec0caa-3b2b-4c36-b0e5-1884a2e8ae3b" valueTypeId="5e80cb66-2004-47ec-a600-c2db2f930209"/>
+    <valueKeyType typeId="6107556b-767a-5c9e-be50-36b2f572f7a6" valueTypeId="f4caa0c5-50ab-5401-9806-5ec198ca19e6"/>
+  </producedTypes>
+  <name>ВестиУчетМаркировкиПродукцииВГИСМ</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConstantExtension">
+    <type>Checked</type>
+  </extension>
+  <type>
+    <types>Boolean</types>
+  </type>
+</mdclass:Constant>

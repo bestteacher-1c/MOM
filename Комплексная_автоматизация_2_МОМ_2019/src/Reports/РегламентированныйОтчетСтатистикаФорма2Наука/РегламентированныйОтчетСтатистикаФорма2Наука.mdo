@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="65dbf284-2c73-40d7-87a3-a94f0423671b">
+  <producedTypes>
+    <objectType typeId="45ef7621-8984-4409-9b59-fc32b90df65b" valueTypeId="9abdf74a-e0d1-4c9f-81f7-ac2cafea9cf0"/>
+    <managerType typeId="0aa10293-890e-4d59-98e2-cc8c573dacbc" valueTypeId="0ee8f27b-ddad-43fd-b1e5-046b8ba2d0ad"/>
+  </producedTypes>
+  <name>РегламентированныйОтчетСтатистикаФорма2Наука</name>
+  <synonym>
+    <key>ru</key>
+    <value>Форма 2-наука &quot;Сведения о выполнении научных исследований и разработок&quot;</value>
+  </synonym>
+  <defaultForm>Report.РегламентированныйОтчетСтатистикаФорма2Наука.Form.ОсновнаяФорма</defaultForm>
+  <includeHelpInContents>true</includeHelpInContents>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
+  <forms uuid="47d757dc-4645-4e48-9d67-472b4c791f53">
+    <name>ОсновнаяФорма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Статистика: Форма 2-наука</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="fdf49b65-a5cb-4651-8ef0-b3a87392195c">
+    <name>ФормаОтчета2019Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма 2-наука</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="2dbdde63-4356-442a-9ca4-534bf4800244">
+    <name>ФормаОтчета2019Кв1_ФормаОтчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета2019 Кв1 Форма Отчета</value>
+    </synonym>
+  </templates>
+  <templates uuid="216228ce-5571-466c-82ef-7ea00edfcff9">
+    <name>АтрибВыгрузкиXML2019Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Атрибуты выгрузки XML 2019 Кв1</value>
+    </synonym>
+    <comment>Дополнительные атрибуты для выгрузки в XML</comment>
+  </templates>
+  <templates uuid="2ff2723d-53cf-43e9-a9ee-23b70fbd52dc">
+    <name>СхемаВыгрузкиXML2019Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки XML2019 Кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="b0288819-85fd-42fe-a98b-6636d73fd35a">
+    <name>ШаблонРосстата2019Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Шаблон росстата2019 Кв1</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="9d0b2997-988c-4346-835d-a5b37a7357aa">
+    <name>Списки2019Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки 2019 Кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="1009d82c-7be6-40d7-802f-f5ca27a12303">
+    <name>НастройкиЗагрузкиXML2019Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки загрузки из файла XML 2012 (кв.1)</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="3e0381f0-7559-4630-b641-314faafc23c3">
+    <name>НастройкиСравнения2019Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки сравнения отчетов 2019 (кв.1)</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:Report>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="8c64c075-2028-40ae-8c74-41a827de3c20">
+  <producedTypes>
+    <objectType typeId="0ab785cb-b0f6-4591-b736-dafb69d7d70f" valueTypeId="c0203ead-7284-43c0-8c36-5b8b9c308261"/>
+    <refType typeId="ff890985-d8ab-40b3-9c07-667c8a90eca0" valueTypeId="13983df3-4fd2-4951-95a2-0cb3e3e8d8bd"/>
+    <selectionType typeId="fa33238f-5f03-4d3c-b42a-de47d2633f65" valueTypeId="fdaa6427-cc0c-4025-af81-f6dd79ff492c"/>
+    <listType typeId="9c69f4ed-4251-4c13-a885-a79ce2ff7308" valueTypeId="b93bf736-572c-4119-9f9b-0c68563a7f8b"/>
+    <managerType typeId="21bf43bf-bf9a-4268-b679-086fd1fd9cc6" valueTypeId="ca61c59a-bcad-41ee-974f-ee99252d2b76"/>
+  </producedTypes>
+  <name>ДоверенностьВыданная</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension"/>
+</mdclass:Document>

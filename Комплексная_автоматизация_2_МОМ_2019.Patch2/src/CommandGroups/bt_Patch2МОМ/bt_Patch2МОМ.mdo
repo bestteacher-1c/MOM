@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommandGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0ba1cbba-dbd1-4ce5-8dbc-01a3ece9f938">
+  <name>bt_Patch2МОМ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Молоко</value>
+  </synonym>
+  <representation>Auto</representation>
+  <picture xsi:type="core:PictureRef">
+    <picture>StdPicture.MoveRight</picture>
+  </picture>
+  <category>FormCommandBar</category>
+</mdclass:CommandGroup>

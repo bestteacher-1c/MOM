@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="0d97329e-a109-47be-bcd7-c6776a52e3fc">
+  <producedTypes>
+    <containerType typeId="ed61221c-1a51-41b2-981c-4e971dfcb4b3" valueTypeId="7284bb89-477b-4590-aab6-6a1e43776869"/>
+  </producedTypes>
+  <name>СтрокаВЕТИС</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DefinedTypeExtension"/>
+  <type/>
+</mdclass:DefinedType>

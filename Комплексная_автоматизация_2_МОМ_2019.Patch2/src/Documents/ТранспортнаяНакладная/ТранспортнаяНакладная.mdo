@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="2add83a1-856a-4e6c-9c66-1feb2a4d17e7" extendedConfigurationObject="22163f5e-b24b-429b-a671-2b293a8a2f80">
+  <producedTypes>
+    <objectType typeId="5e2ba89f-f101-46c8-acfb-c260f154766f" valueTypeId="7b9430d4-8092-4318-9e79-1dceff9b72c8"/>
+    <refType typeId="7a5ffc62-2cb0-410d-8c7e-b5e18c3f7cee" valueTypeId="e71ce657-1d75-4d99-98d4-dc8a62ada684"/>
+    <selectionType typeId="fd3c7262-23f8-4015-9837-8a8fe4ac345f" valueTypeId="0c3d9e20-7b36-4cdd-9258-497f5f480ab1"/>
+    <listType typeId="4be3e0c5-40e8-418d-a7d0-1cd17ce7653c" valueTypeId="7564c7bc-5251-4b93-a78b-b6b0b1897465"/>
+    <managerType typeId="9329eff7-50ca-45ed-9da2-219be0f244d0" valueTypeId="7663f510-02c6-402f-8d98-49fddf678bf2"/>
+  </producedTypes>
+  <name>ТранспортнаяНакладная</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <objectModule>Extended</objectModule>
+  </extension>
+</mdclass:Document>

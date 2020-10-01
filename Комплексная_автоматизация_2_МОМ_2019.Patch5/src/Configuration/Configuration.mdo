@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="6bcc1cf8-5441-4cd0-a2e4-b90610226783">
+  <name>bt_Patch5</name>
+  <synonym>
+    <key>ru</key>
+    <value>Bestteacher.1c patch5</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <usePurposes>Checked</usePurposes>
+    <defaultLanguage>Checked</defaultLanguage>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+    <compatibilityMode>Checked</compatibilityMode>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="233ca683-7689-4765-a46d-4e67af89c65f"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="90895293-047d-48fd-98ef-36c38764dcda"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="bb23fa2b-24d8-4470-9b13-811eb1a00e06"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="ed87aada-156a-4fbd-a751-e9a3dd3991fe"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="b1e44244-ac74-42e0-8162-1a25dac102f5"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="c97fe0bb-a7e8-412e-936c-1d3efa049688"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="931fea84-cb4c-4295-a55b-81ce5813d33d"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>bt_Patch5_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor>Bestteacher.1c</vendor>
+  <version>1.2.0.3</version>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
+  <compatibilityMode>8.3.14</compatibilityMode>
+  <languages uuid="28610841-150d-4a39-b448-95766213684b">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <commonPictures>CommonPicture.ПревышениеЗаказа</commonPictures>
+  <commonPictures>CommonPicture.КопированиеСтрок</commonPictures>
+  <commonPictures>CommonPicture.ПодобратьТовары</commonPictures>
+  <commonPictures>CommonPicture.ПодобратьТоварыИзЗаказа</commonPictures>
+  <commonPictures>CommonPicture.НовыйПоШтрихкоду</commonPictures>
+  <commonPictures>CommonPicture.ПроверкаКоличестваТоваров</commonPictures>
+  <commonPictures>CommonPicture.ПолучитьВес</commonPictures>
+  <commonPictures>CommonPicture.ПодключаемоеОборудованиеТерминалСбораДанных16</commonPictures>
+  <commonPictures>CommonPicture.СерииНоменклатурыУказаны</commonPictures>
+  <commonPictures>CommonPicture.СерииНоменклатурыУказаныFEFO</commonPictures>
+  <commonPictures>CommonPicture.РазбитьСтроку</commonPictures>
+  <commonPictures>CommonPicture.ВставкаСтрок</commonPictures>
+  <commonPictures>CommonPicture.СостоянияСтрок</commonPictures>
+  <commonPictures>CommonPicture.СерииНоменклатурыКолонкаСтатусов</commonPictures>
+  <commonPictures>CommonPicture.СтатусыУказанияСерий</commonPictures>
+  <commonPictures>CommonPicture.ЗаполнитьПоШаблону</commonPictures>
+  <commonPictures>CommonPicture.Отчеты</commonPictures>
+  <commonPictures>CommonPicture.ЗаполнитьФорму</commonPictures>
+  <functionalOptions>FunctionalOption.ИспользоватьУчетПрочихДоходовРасходов</functionalOptions>
+  <functionalOptions>FunctionalOption.ИспользоватьСерииНоменклатуры</functionalOptions>
+  <functionalOptions>FunctionalOption.ИспользоватьВнутреннееПотреблениеПоНесколькимЗаказам</functionalOptions>
+  <functionalOptions>FunctionalOption.ИспользоватьПодключаемоеОборудование</functionalOptions>
+  <functionalOptions>FunctionalOption.ИспользоватьЗаказыНаВнутреннееПотребление</functionalOptions>
+  <functionalOptions>FunctionalOption.ИспользоватьУправлениеРемонтами</functionalOptions>
+  <functionalOptions>FunctionalOption.ИспользоватьСерииНоменклатурыСклад</functionalOptions>
+  <functionalOptions>FunctionalOption.ВестиУчетМаркировкиПродукцииВГИСМ</functionalOptions>
+  <functionalOptions>FunctionalOption.ИспользоватьСерииНоменклатурыПроизводство</functionalOptions>
+  <functionalOptions>FunctionalOption.ИспользоватьМногооборотнуюТару</functionalOptions>
+  <definedTypes>DefinedType.Артикул</definedTypes>
+  <constants>Constant.ИспользоватьУчетПрочихДоходовРасходов</constants>
+  <constants>Constant.ИспользоватьЗаказыНаВнутреннееПотребление</constants>
+  <constants>Constant.ИспользоватьСерииНоменклатуры</constants>
+  <constants>Constant.ИспользоватьВнутреннееПотреблениеПоНесколькимЗаказам</constants>
+  <constants>Constant.ИспользоватьПодключаемоеОборудование</constants>
+  <constants>Constant.ВестиУчетМаркировкиПродукцииВГИСМ</constants>
+  <constants>Constant.ИспользоватьУправлениеРемонтами</constants>
+  <constants>Constant.ИспользоватьМногооборотнуюТару</constants>
+  <catalogs>Catalog.Склады</catalogs>
+  <catalogs>Catalog.СтруктураПредприятия</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.НаправленияДеятельности</catalogs>
+  <catalogs>Catalog.Пользователи</catalogs>
+  <catalogs>Catalog.Организации</catalogs>
+  <catalogs>Catalog.КатегорииЭксплуатации</catalogs>
+  <catalogs>Catalog.СерииНоменклатуры</catalogs>
+  <catalogs>Catalog.ХарактеристикиНоменклатуры</catalogs>
+  <catalogs>Catalog.УпаковкиЕдиницыИзмерения</catalogs>
+  <catalogs>Catalog.ФизическиеЛица</catalogs>
+  <catalogs>Catalog.СделкиСКлиентами</catalogs>
+  <catalogs>Catalog.ВидыЦен</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <documents>Document.СчетФактураВыданный</documents>
+  <enums>Enum.ХозяйственныеОперации</enums>
+  <enums>Enum.ТипыНоменклатуры</enums>
+  <enums>Enum.ТипыНалогообложенияНДС</enums>
+  <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.СтатьиАктивовПассивов</chartsOfCharacteristicTypes>
+  <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.СтатьиРасходов</chartsOfCharacteristicTypes>
+</mdclass:Configuration>

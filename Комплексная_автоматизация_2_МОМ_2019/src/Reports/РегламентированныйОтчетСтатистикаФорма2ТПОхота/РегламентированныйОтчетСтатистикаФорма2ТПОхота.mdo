@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bce0b75d-6a4d-4dfa-ae4b-1c0fbaa4e2fd">
+  <producedTypes>
+    <objectType typeId="46865d61-ef83-4199-a864-5a51971036bb" valueTypeId="1886d33a-64f3-46ab-aff9-29edba46fa8f"/>
+    <managerType typeId="c93c650d-3651-40f8-b7e0-19fa5c881e99" valueTypeId="6ff1bb7d-0704-4ecc-86bb-c3546788f291"/>
+  </producedTypes>
+  <name>РегламентированныйОтчетСтатистикаФорма2ТПОхота</name>
+  <synonym>
+    <key>ru</key>
+    <value>Форма 2-ТП (охота) &quot;Сведения об охоте и охотничьем хозяйстве&quot;</value>
+  </synonym>
+  <defaultForm>Report.РегламентированныйОтчетСтатистикаФорма2ТПОхота.Form.ОсновнаяФорма</defaultForm>
+  <includeHelpInContents>true</includeHelpInContents>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
+  <forms uuid="121baf76-399b-4cc3-8f9d-dff8ff2df3c4">
+    <name>ОсновнаяФорма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Статистика: Форма 2-ТП (охота)</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="8d174efb-a778-4550-a01d-22fb04678f2b">
+    <name>ФормаОтчета2018Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма 2-ТП (охота)</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="740ff331-9c85-4132-bbbb-e1b90b94b177">
+    <name>АтрибВыгрузкиXML2018Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Атрибуты выгрузки XML 2018 кв1</value>
+    </synonym>
+    <comment>Дополнительные атрибуты для выгрузки в XML</comment>
+  </templates>
+  <templates uuid="88de6d2c-639a-40e7-94ec-925ddf7d996d">
+    <name>СхемаВыгрузкиXML2018Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки XML2018 кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="eb331bd8-4b8e-4f47-bdb6-aed1eb7dafb3">
+    <name>ФормаОтчета2018Кв1_ФормаОтчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета2018 кв1 форма отчета</value>
+    </synonym>
+  </templates>
+  <templates uuid="af11e1ba-f935-4b70-8b22-2fbaa925860f">
+    <name>ШаблонРосстата2018Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Шаблон росстата2018 кв1</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="c9e77a9e-ee9e-4f93-8f02-deb5d05b8ceb">
+    <name>НастройкиЗагрузкиXML2018Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки загрузки из файла XML 2018 (кв.1)</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="06c636c2-9e3b-4748-8e46-246fadf3db23">
+    <name>Списки2018кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки2018кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="54dbbc17-0449-4b11-9533-21cce1f9003f">
+    <name>НастройкиСравнения2018Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки сравнения отчетов 2018 (кв.1)</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:Report>

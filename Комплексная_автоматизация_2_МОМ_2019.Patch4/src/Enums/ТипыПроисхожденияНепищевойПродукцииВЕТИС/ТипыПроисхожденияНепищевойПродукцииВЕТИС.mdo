@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="1862c154-58ee-4319-ad91-a392e7fcb4a5">
+  <producedTypes>
+    <refType typeId="30771069-c07b-4e1c-ae59-c4e4627d20aa" valueTypeId="18a66f4b-ef1f-42ef-ac41-6a2f8f5b0473"/>
+    <listType typeId="dfcb1ca6-7389-44e7-85b4-6ff1586d5509" valueTypeId="e1b0d21d-d1b3-48da-a31b-d21b08015d9f"/>
+    <managerType typeId="eaee4b95-d166-4a8e-a43c-0ff3cc953edc" valueTypeId="93232dab-e498-4689-98e8-04fb45c95767"/>
+  </producedTypes>
+  <name>ТипыПроисхожденияНепищевойПродукцииВЕТИС</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+</mdclass:Enum>

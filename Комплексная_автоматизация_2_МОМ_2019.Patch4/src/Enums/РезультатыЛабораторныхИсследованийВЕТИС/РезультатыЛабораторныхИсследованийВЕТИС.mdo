@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="53c9ab83-ee49-482c-98c7-a2f4a2cf3c37">
+  <producedTypes>
+    <refType typeId="164a80bb-9b56-40ad-85dc-d7c444d74c95" valueTypeId="a20a2dd9-2259-4c9c-b68a-fbae09a0df2e"/>
+    <listType typeId="8b0b75a5-b2c0-4398-956f-f30b5e9f1d48" valueTypeId="2818ffc7-7f2f-42d7-8ef0-4a350817ede9"/>
+    <managerType typeId="303cbc6a-fd11-4e6c-bd1a-09ce0bb2f03f" valueTypeId="05bf3d8a-57cd-4c30-8a65-98bc7e408cea"/>
+  </producedTypes>
+  <name>РезультатыЛабораторныхИсследованийВЕТИС</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <enumValues uuid="c93fdf35-f0ad-4b3b-93e1-ad8658f5754a">
+    <name>ИзготовленаИзСырьяПрошедшегоВСЭ</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="82b5643a-25a3-4eef-9ae4-7495e20ba73c">
+    <name>НеПодвергнутаВСЭ</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="84bee933-ff07-4bbc-a6b7-07c135704ee4">
+    <name>ПодвергнутаВСЭВПолномОбъеме</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+</mdclass:Enum>

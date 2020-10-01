@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="72f92efa-bda5-498d-b5a2-1646d18cd7ab">
+  <producedTypes>
+    <managerType typeId="f931b183-1284-4db7-9058-5048ebfcf2f4" valueTypeId="bc7d61bf-7ad5-44e6-a183-0df6b6132bb3"/>
+    <valueManagerType typeId="b81ae381-772d-40f4-af83-eb5b8025f65d" valueTypeId="916190e6-ceb0-471a-a7e2-b50ddd159eae"/>
+    <valueKeyType typeId="d603468a-e851-5196-b12d-2ca0045ef29b" valueTypeId="f284a5f8-2e53-54f7-ac53-88adfac78777"/>
+  </producedTypes>
+  <name>ИспользоватьУчетПрочихДоходовРасходов</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConstantExtension">
+    <type>Checked</type>
+  </extension>
+  <type>
+    <types>Boolean</types>
+  </type>
+</mdclass:Constant>

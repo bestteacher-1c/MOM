@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="99ff96f1-71dd-4c15-90f8-b484d85d4b1d">
+  <producedTypes>
+    <objectType typeId="d84b5d1c-74e1-4a56-bc60-99ef7c9aee6c" valueTypeId="d8ed5762-68a1-4915-b194-7afec02b41ea"/>
+    <refType typeId="8ca266a3-d879-4702-bab7-a47c0cf60609" valueTypeId="fa6c4370-2c54-421d-95b9-1424976a46a9"/>
+    <selectionType typeId="900781c1-d944-44e0-a595-6b3f96ddb6e0" valueTypeId="53a77307-5754-4194-95ef-327841c569fc"/>
+    <listType typeId="0ce15c96-2f9d-42cb-b366-1a807a0b3892" valueTypeId="ce741088-b33a-423a-91c8-bb4217dc6816"/>
+    <managerType typeId="46d311c1-f42e-4353-a0ab-c20ff05ba866" valueTypeId="dbade406-dcdb-45d9-9682-e7a58118a01f"/>
+  </producedTypes>
+  <name>Склады</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+  <attributes uuid="1d004fcd-ea15-4675-bea1-927bfe14990f">
+    <name>ИспользоватьСерииНоменклатуры</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>Boolean</types>
+    </type>
+  </attributes>
+</mdclass:Catalog>

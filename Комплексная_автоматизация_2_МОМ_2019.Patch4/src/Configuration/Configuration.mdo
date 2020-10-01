@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="7744b534-7310-49be-b34d-fd2091849290">
+  <name>bt_Patch4</name>
+  <synonym>
+    <key>ru</key>
+    <value>Bt patch4</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <usePurposes>Checked</usePurposes>
+    <defaultLanguage>Checked</defaultLanguage>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+    <compatibilityMode>Checked</compatibilityMode>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="919a249d-5f5e-43c3-b515-1d611be1f7f3"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="0b2a6e42-236b-4e8c-b3dd-811a3107b73f"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="195c9b61-c052-43fc-860b-997c3abf250d"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="7673d186-4079-4064-8691-05f1e47b1e06"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="fe585531-f743-4203-8514-0cc8c35c72b0"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="9dde7c59-6c3a-490e-acca-3ad8719358cf"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="aecf9ae0-06bf-49d6-ae62-7ba0061a9c0d"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>bt_Patch4_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor>bestteacher.1c</vendor>
+  <version>1.2.0.3</version>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
+  <compatibilityMode>8.3.14</compatibilityMode>
+  <languages uuid="b6bc534d-c735-4fc1-8e79-fa5afe08d448">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <styleItems>StyleItem.ФонУправляющегоПоля</styleItems>
+  <styleItems>StyleItem.ГиперссылкаЦвет</styleItems>
+  <styleItems>StyleItem.ЦветГиперссылкиГосИС</styleItems>
+  <styleItems>StyleItem.ПоясняющийТекст</styleItems>
+  <commonPictures>CommonPicture.НовостиВнимание</commonPictures>
+  <commonPictures>CommonPicture.Отчеты</commonPictures>
+  <commonPictures>CommonPicture.ВниманиеКрасный</commonPictures>
+  <commonPictures>CommonPicture.ЗаполнитьПоШаблону</commonPictures>
+  <commonPictures>CommonPicture.ЗаполнитьФорму</commonPictures>
+  <commonPictures>CommonPicture.СтатусыПроверкиРегионализации</commonPictures>
+  <commonPictures>CommonPicture.ПодобратьТовары</commonPictures>
+  <commonPictures>CommonPicture.СерииНоменклатурыУказаны</commonPictures>
+  <commonPictures>CommonPicture.ВосклицательныйЗнакКрасный</commonPictures>
+  <commonPictures>CommonPicture.ИерархияСтрокРегионализации</commonPictures>
+  <commonPictures>CommonPicture.КритическаяОшибкаГосИС</commonPictures>
+  <functionalOptions>FunctionalOption.ИспользоватьЗаявкиНаРасходованиеДенежныхСредств</functionalOptions>
+  <definedTypes>DefinedType.ОбъектРасчетов</definedTypes>
+  <definedTypes>DefinedType.ХарактеристикаНоменклатуры</definedTypes>
+  <definedTypes>DefinedType.ТорговыйОбъектВЕТИС</definedTypes>
+  <definedTypes>DefinedType.ОрганизацияКонтрагентГосИС</definedTypes>
+  <definedTypes>DefinedType.Номенклатура</definedTypes>
+  <definedTypes>DefinedType.ТипНоменклатуры</definedTypes>
+  <definedTypes>DefinedType.Артикул</definedTypes>
+  <definedTypes>DefinedType.Упаковка</definedTypes>
+  <definedTypes>DefinedType.ОснованиеИсходящаяТранспортнаяОперацияВЕТИС</definedTypes>
+  <definedTypes>DefinedType.СерияНоменклатурыВЕТИС</definedTypes>
+  <definedTypes>DefinedType.СтрокаВЕТИС</definedTypes>
+  <definedTypes>DefinedType.ОснованиеПроизводственнаяОперацияВЕТИС</definedTypes>
+  <definedTypes>DefinedType.ПроизводственныйОбъектИС</definedTypes>
+  <definedTypes>DefinedType.ИдентификаторПроизводственнойТранзакцииВЕТИС</definedTypes>
+  <definedTypes>DefinedType.ОснованиеИнвентаризацияПродукцииВЕТИС</definedTypes>
+  <definedTypes>DefinedType.ДенежнаяСуммаНеотрицательная</definedTypes>
+  <commonCommands>CommonCommand.ПротоколОбменаВЕТИС</commonCommands>
+  <constants>Constant.ИспользоватьЗаявкиНаРасходованиеДенежныхСредств</constants>
+  <catalogs>Catalog.Партнеры</catalogs>
+  <catalogs>Catalog.ДоговорыКонтрагентов</catalogs>
+  <catalogs>Catalog.СтруктураПредприятия</catalogs>
+  <catalogs>Catalog.Кассы</catalogs>
+  <catalogs>Catalog.Организации</catalogs>
+  <catalogs>Catalog.СтатьиДвиженияДенежныхСредств</catalogs>
+  <catalogs>Catalog.Валюты</catalogs>
+  <catalogs>Catalog.ГруппыФинансовогоУчетаРасчетов</catalogs>
+  <catalogs>Catalog.НаправленияДеятельности</catalogs>
+  <catalogs>Catalog.ДоговорыКредитовИДепозитов</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.БанковскиеСчетаОрганизаций</catalogs>
+  <catalogs>Catalog.КассыККМ</catalogs>
+  <catalogs>Catalog.ФизическиеЛица</catalogs>
+  <catalogs>Catalog.Пользователи</catalogs>
+  <catalogs>Catalog.ОтветственныеЛицаОрганизаций</catalogs>
+  <catalogs>Catalog.ДоговорыЛизинга</catalogs>
+  <catalogs>Catalog.ЦелиВЕТИС</catalogs>
+  <catalogs>Catalog.ПродукцияВЕТИС</catalogs>
+  <catalogs>Catalog.ПредприятияВЕТИС</catalogs>
+  <catalogs>Catalog.ЗаписиСкладскогоЖурналаВЕТИС</catalogs>
+  <catalogs>Catalog.ХарактеристикиНоменклатуры</catalogs>
+  <catalogs>Catalog.ЕдиницыИзмеренияВЕТИС</catalogs>
+  <catalogs>Catalog.ХозяйствующиеСубъектыВЕТИС</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.УпаковкиЕдиницыИзмерения</catalogs>
+  <catalogs>Catalog.ВетеринарноСопроводительныйДокументВЕТИС</catalogs>
+  <catalogs>Catalog.СтраныМира</catalogs>
+  <documents>Document.ПриходныйКассовыйОрдер</documents>
+  <documents>Document.РаспоряжениеНаПеремещениеДенежныхСредств</documents>
+  <documents>Document.ДоговорЗаймаСотруднику</documents>
+  <documents>Document.ДоверенностьВыданная</documents>
+  <documents>Document.РасходныйКассовыйОрдер</documents>
+  <documents>Document.ЗаявкаНаРасходованиеДенежныхСредств</documents>
+  <documents>Document.ИсходящаяТранспортнаяОперацияВЕТИС</documents>
+  <documents>Document.ПроизводственнаяОперацияВЕТИС</documents>
+  <documents>Document.ИнвентаризацияПродукцииВЕТИС</documents>
+  <enums>Enum.ХозяйственныеОперации</enums>
+  <enums>Enum.СтавкиНДС</enums>
+  <enums>Enum.ТипыСуммГрафикаКредитовИДепозитов</enums>
+  <enums>Enum.ТипыПлатежейПоЛизингу</enums>
+  <enums>Enum.ТипыНалогообложенияНДС</enums>
+  <enums>Enum.РезультатыЛабораторныхИсследованийВЕТИС</enums>
+  <enums>Enum.РезультатыПроверкиПравилРегионализации</enums>
+  <enums>Enum.ПериодыНахожденияЖивотныхНаТерриторииТСВЕТИС</enums>
+  <enums>Enum.СтатусыОбработкиИсходящихТранспортныхОперацийВЕТИС</enums>
+  <enums>Enum.СпособыХраненияПриТранспортировкеВЕТИС</enums>
+  <enums>Enum.ТипыПроисхожденияНепищевойПродукцииВЕТИС</enums>
+  <enums>Enum.ТипыДокументовВЕТИС</enums>
+  <enums>Enum.ТипыНоменклатуры</enums>
+  <enums>Enum.СтатусыОбработкиПроизводственныхОперацийВЕТИС</enums>
+  <enums>Enum.ТипыПроизводственныхОперацийВЕТИС</enums>
+  <enums>Enum.СтатусыОбработкиИнвентаризацийПродукцииВЕТИС</enums>
+  <enums>Enum.ОперацииИнвентаризацииПродукцииВЕТИС</enums>
+  <dataProcessors>DataProcessor.УсловияРегионализацииВЕТИС</dataProcessors>
+  <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.СтатьиАктивовПассивов</chartsOfCharacteristicTypes>
+  <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.СтатьиРасходов</chartsOfCharacteristicTypes>
+  <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.СтатьиДоходов</chartsOfCharacteristicTypes>
+</mdclass:Configuration>

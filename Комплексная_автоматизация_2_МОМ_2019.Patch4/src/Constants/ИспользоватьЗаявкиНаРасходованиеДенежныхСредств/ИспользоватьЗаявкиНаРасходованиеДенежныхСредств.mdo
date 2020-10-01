@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="45af47c5-065a-438b-b1f2-8dc9febf9f46">
+  <producedTypes>
+    <managerType typeId="bcd319ff-2551-4c2c-b653-2f012d7e1d70" valueTypeId="6b91fa06-da1c-40d2-a5f7-2b19f05cbd2c"/>
+    <valueManagerType typeId="4f05ad6d-2869-4404-a12a-67b96a1f3a03" valueTypeId="38fcde08-7ec5-44bd-9492-6c63428dde9e"/>
+    <valueKeyType typeId="f562ad21-6e89-5f6d-9466-331ffcf53111" valueTypeId="dc27c3fe-022f-5f25-ab05-c5533e5e2def"/>
+  </producedTypes>
+  <name>ИспользоватьЗаявкиНаРасходованиеДенежныхСредств</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConstantExtension">
+    <type>Checked</type>
+  </extension>
+  <type>
+    <types>Boolean</types>
+  </type>
+</mdclass:Constant>

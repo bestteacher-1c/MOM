@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="1fa9b768-b2ef-4c3f-add8-07223d0223d2">
+  <producedTypes>
+    <managerType typeId="8e6b1768-c0ce-4549-b713-d7bd904d3f11" valueTypeId="8ec437bf-fb0f-4795-84e9-e6125c6ad2df"/>
+    <valueManagerType typeId="e2fd2f2c-1a90-450c-b474-1b399d002c89" valueTypeId="bfda8d6a-d2db-4d8c-8623-d041e8b589a7"/>
+    <valueKeyType typeId="ad2e19be-471a-4ab0-91ad-1af034883655" valueTypeId="71e3a74e-eac2-4169-aba7-a5651434fba0"/>
+  </producedTypes>
+  <name>ИспользоватьСкладыВТабличнойЧастиДокументовПродажи</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConstantExtension">
+    <type>Checked</type>
+  </extension>
+  <type>
+    <types>Boolean</types>
+  </type>
+</mdclass:Constant>

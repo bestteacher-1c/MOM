@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="82f8040c-f0e4-4df9-a5f2-a38bc4e46bc8">
+  <producedTypes>
+    <refType typeId="12f8ac95-42ca-4b8b-a152-4cf6c33d875f" valueTypeId="0719f5f6-3543-42ff-9337-6a3e6cc19e5f"/>
+    <listType typeId="de1894c8-fb0f-4f30-bb3d-a5ef4ed6998c" valueTypeId="bc9378cc-e910-4c4e-b10a-91d7bb9452e4"/>
+    <managerType typeId="fdba9abf-42f7-4b6c-be71-3736e8dc4061" valueTypeId="af6bb432-f226-4e15-9eae-bfe64f3af939"/>
+  </producedTypes>
+  <name>СпособыХраненияПриТранспортировкеВЕТИС</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+</mdclass:Enum>
